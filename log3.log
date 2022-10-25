@@ -1,0 +1,2060 @@
+INFO 2022-10-21 19:24:45,150  * Restarting with stat
+WARNING 2022-10-21 19:24:46,163  * Debugger is active!
+INFO 2022-10-21 19:24:46,170  * Debugger PIN: 643-800-590
+INFO 2022-10-21 19:24:46,180  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2022-10-21 19:26:09,660  * Restarting with stat
+WARNING 2022-10-21 19:26:10,599  * Debugger is active!
+INFO 2022-10-21 19:26:10,604  * Debugger PIN: 643-800-590
+INFO 2022-10-21 19:26:10,613  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+WARNING 2022-10-21 19:29:47,541  * Debugger is active!
+INFO 2022-10-21 19:29:47,562  * Debugger PIN: 643-800-590
+INFO 2022-10-21 19:29:47,583  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2022-10-21 22:28:43,476  * Restarting with stat
+WARNING 2022-10-21 22:28:44,269  * Debugger is active!
+INFO 2022-10-21 22:28:44,275  * Debugger PIN: 643-800-590
+INFO 2022-10-21 22:28:44,283  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+WARNING 2022-10-22 00:14:23,015  * Debugger is active!
+INFO 2022-10-22 00:14:23,026  * Debugger PIN: 643-800-590
+INFO 2022-10-22 00:14:23,095  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2022-10-22 00:18:38,884  * Detected change in 'C:\\Users\\Bikash\\Downloads\\pythonpro\\pythonpro\\app.py', reloading
+INFO 2022-10-22 00:19:53,818 127.0.0.1 - - [22/Oct/2022 00:19:53] "[37mGET / HTTP/1.1[0m" 200 -
+INFO 2022-10-22 00:20:01,485 127.0.0.1 - - [22/Oct/2022 00:20:01] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO 2022-10-22 00:20:01,498 127.0.0.1 - - [22/Oct/2022 00:20:01] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO 2022-10-22 00:20:06,207 127.0.0.1 - - [22/Oct/2022 00:20:06] "[37mPOST /comment HTTP/1.1[0m" 200 -
+INFO 2022-10-22 00:20:06,265 127.0.0.1 - - [22/Oct/2022 00:20:06] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO 2022-10-22 00:33:28,605 127.0.0.1 - - [22/Oct/2022 00:33:28] "[37mGET / HTTP/1.1[0m" 200 -
+INFO 2022-10-22 00:33:35,099 detals successfully fetched for 0th product
+INFO 2022-10-22 00:33:35,212 detals successfully fetched for 1th product
+INFO 2022-10-22 00:33:35,321 detals successfully fetched for 2th product
+INFO 2022-10-22 00:33:35,442 detals successfully fetched for 3th product
+INFO 2022-10-22 00:33:35,560 detals successfully fetched for 4th product
+INFO 2022-10-22 00:33:35,675 detals successfully fetched for 5th product
+INFO 2022-10-22 00:33:35,789 detals successfully fetched for 6th product
+INFO 2022-10-22 00:33:35,909 detals successfully fetched for 7th product
+INFO 2022-10-22 00:33:36,029 detals successfully fetched for 8th product
+INFO 2022-10-22 00:33:36,149 detals successfully fetched for 9th product
+INFO 2022-10-22 00:33:36,269 detals successfully fetched for 10th product
+INFO 2022-10-22 00:33:36,387 detals successfully fetched for 11th product
+INFO 2022-10-22 00:33:36,502 detals successfully fetched for 12th product
+INFO 2022-10-22 00:33:36,629 detals successfully fetched for 13th product
+INFO 2022-10-22 00:33:36,743 detals successfully fetched for 14th product
+INFO 2022-10-22 00:33:36,856 detals successfully fetched for 15th product
+INFO 2022-10-22 00:33:36,976 detals successfully fetched for 16th product
+INFO 2022-10-22 00:33:37,086 detals successfully fetched for 17th product
+INFO 2022-10-22 00:33:37,205 detals successfully fetched for 18th product
+INFO 2022-10-22 00:33:37,319 detals successfully fetched for 19th product
+INFO 2022-10-22 00:33:37,487 detals successfully fetched for 20th product
+INFO 2022-10-22 00:33:37,599 detals successfully fetched for 21th product
+INFO 2022-10-22 00:33:37,717 detals successfully fetched for 22th product
+INFO 2022-10-22 00:33:37,836 detals successfully fetched for 23th product
+INFO 2022-10-22 00:33:37,841 127.0.0.1 - - [22/Oct/2022 00:33:37] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO 2022-10-22 00:33:37,857 127.0.0.1 - - [22/Oct/2022 00:33:37] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO 2022-10-22 01:15:49,880  * Detected change in 'C:\\Users\\Bikash\\Downloads\\pythonpro\\pythonpro\\app.py', reloading
+INFO 2022-10-22 14:30:23,725 127.0.0.1 - - [22/Oct/2022 14:30:23] "[37mGET / HTTP/1.1[0m" 200 -
+INFO 2022-10-22 14:30:24,754 127.0.0.1 - - [22/Oct/2022 14:30:24] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO 2022-10-22 14:30:24,757 127.0.0.1 - - [22/Oct/2022 14:30:24] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO 2022-10-22 14:30:25,601 127.0.0.1 - - [22/Oct/2022 14:30:25] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO 2022-10-22 14:30:39,823  product details successfully fetched for 0th product
+INFO 2022-10-22 14:30:39,912  product details successfully fetched for 1th product
+INFO 2022-10-22 14:30:40,001  product details successfully fetched for 2th product
+INFO 2022-10-22 14:30:40,194  product details successfully fetched for 3th product
+INFO 2022-10-22 14:30:40,296  product details successfully fetched for 4th product
+INFO 2022-10-22 14:30:40,408  product details successfully fetched for 5th product
+INFO 2022-10-22 14:30:40,502  product details successfully fetched for 6th product
+INFO 2022-10-22 14:30:40,587  product details successfully fetched for 7th product
+INFO 2022-10-22 14:30:40,680  product details successfully fetched for 8th product
+INFO 2022-10-22 14:30:40,766  product details successfully fetched for 9th product
+INFO 2022-10-22 14:30:40,851  product details successfully fetched for 10th product
+INFO 2022-10-22 14:30:40,942  product details successfully fetched for 11th product
+INFO 2022-10-22 14:30:41,030  product details successfully fetched for 12th product
+INFO 2022-10-22 14:30:41,118  product details successfully fetched for 13th product
+INFO 2022-10-22 14:30:41,204  product details successfully fetched for 14th product
+INFO 2022-10-22 14:30:41,295  product details successfully fetched for 15th product
+INFO 2022-10-22 14:30:41,382  product details successfully fetched for 16th product
+INFO 2022-10-22 14:30:41,476  product details successfully fetched for 17th product
+INFO 2022-10-22 14:30:41,567  product details successfully fetched for 18th product
+INFO 2022-10-22 14:30:41,662  product details successfully fetched for 19th product
+ERROR 2022-10-22 14:30:41,759 Percentage_off not present for 20th product
+INFO 2022-10-22 14:30:41,760  product details successfully fetched for 20th product
+ERROR 2022-10-22 14:30:41,850 Percentage_off not present for 21th product
+INFO 2022-10-22 14:30:41,851  product details successfully fetched for 21th product
+ERROR 2022-10-22 14:30:41,950 Percentage_off not present for 22th product
+INFO 2022-10-22 14:30:41,951  product details successfully fetched for 22th product
+ERROR 2022-10-22 14:30:42,041 Percentage_off not present for 23th product
+INFO 2022-10-22 14:30:42,041  product details successfully fetched for 23th product
+INFO 2022-10-22 14:30:42,249 127.0.0.1 - - [22/Oct/2022 14:30:42] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO 2022-10-22 14:30:42,290 127.0.0.1 - - [22/Oct/2022 14:30:42] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO 2022-10-22 14:30:54,663 review details successfully fetched from 0th customer 
+INFO 2022-10-22 14:30:54,756 review details successfully fetched from 1th customer 
+INFO 2022-10-22 14:30:54,845 review details successfully fetched from 2th customer 
+INFO 2022-10-22 14:30:54,934 review details successfully fetched from 3th customer 
+INFO 2022-10-22 14:30:55,026 review details successfully fetched from 4th customer 
+INFO 2022-10-22 14:30:55,114 review details successfully fetched from 5th customer 
+INFO 2022-10-22 14:30:55,199 review details successfully fetched from 6th customer 
+INFO 2022-10-22 14:30:55,305 review details successfully fetched from 7th customer 
+INFO 2022-10-22 14:30:55,429 review details successfully fetched from 8th customer 
+INFO 2022-10-22 14:30:55,634 review details successfully fetched from 9th customer 
+INFO 2022-10-22 14:30:55,687 127.0.0.1 - - [22/Oct/2022 14:30:55] "[37mPOST /comment HTTP/1.1[0m" 200 -
+INFO 2022-10-22 14:30:55,703 127.0.0.1 - - [22/Oct/2022 14:30:55] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO 2022-10-22 14:33:51,640 127.0.0.1 - - [22/Oct/2022 14:33:51] "[37mGET / HTTP/1.1[0m" 200 -
+INFO 2022-10-22 14:33:59,780  product details successfully fetched for 0th product
+INFO 2022-10-22 14:33:59,898  product details successfully fetched for 1th product
+INFO 2022-10-22 14:34:00,018  product details successfully fetched for 2th product
+INFO 2022-10-22 14:34:00,126  product details successfully fetched for 3th product
+INFO 2022-10-22 14:34:00,240  product details successfully fetched for 4th product
+INFO 2022-10-22 14:34:00,356  product details successfully fetched for 5th product
+INFO 2022-10-22 14:34:00,466  product details successfully fetched for 6th product
+INFO 2022-10-22 14:34:00,587  product details successfully fetched for 7th product
+INFO 2022-10-22 14:34:00,697  product details successfully fetched for 8th product
+INFO 2022-10-22 14:34:00,805  product details successfully fetched for 9th product
+INFO 2022-10-22 14:34:00,913  product details successfully fetched for 10th product
+INFO 2022-10-22 14:34:01,025  product details successfully fetched for 11th product
+INFO 2022-10-22 14:34:01,130  product details successfully fetched for 12th product
+INFO 2022-10-22 14:34:01,242  product details successfully fetched for 13th product
+INFO 2022-10-22 14:34:01,353  product details successfully fetched for 14th product
+INFO 2022-10-22 14:34:01,467  product details successfully fetched for 15th product
+INFO 2022-10-22 14:34:01,571  product details successfully fetched for 16th product
+INFO 2022-10-22 14:34:01,687  product details successfully fetched for 17th product
+INFO 2022-10-22 14:34:01,816  product details successfully fetched for 18th product
+INFO 2022-10-22 14:34:01,927  product details successfully fetched for 19th product
+INFO 2022-10-22 14:34:02,038  product details successfully fetched for 20th product
+INFO 2022-10-22 14:34:02,145  product details successfully fetched for 21th product
+INFO 2022-10-22 14:34:02,252  product details successfully fetched for 22th product
+INFO 2022-10-22 14:34:02,362  product details successfully fetched for 23th product
+INFO 2022-10-22 14:34:02,367 127.0.0.1 - - [22/Oct/2022 14:34:02] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO 2022-10-22 14:34:02,381 127.0.0.1 - - [22/Oct/2022 14:34:02] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO 2022-10-22 14:37:10,049 review details successfully fetched from 0th customer 
+INFO 2022-10-22 14:37:10,111 review details successfully fetched from 1th customer 
+INFO 2022-10-22 14:37:10,170 review details successfully fetched from 2th customer 
+INFO 2022-10-22 14:37:10,231 review details successfully fetched from 3th customer 
+INFO 2022-10-22 14:37:10,299 review details successfully fetched from 4th customer 
+INFO 2022-10-22 14:37:10,361 review details successfully fetched from 5th customer 
+INFO 2022-10-22 14:37:10,426 review details successfully fetched from 6th customer 
+INFO 2022-10-22 14:37:10,491 review details successfully fetched from 7th customer 
+INFO 2022-10-22 14:37:10,555 review details successfully fetched from 8th customer 
+INFO 2022-10-22 14:37:10,619 review details successfully fetched from 9th customer 
+INFO 2022-10-22 14:37:10,624 127.0.0.1 - - [22/Oct/2022 14:37:10] "[37mPOST /comment HTTP/1.1[0m" 200 -
+INFO 2022-10-22 14:37:10,638 127.0.0.1 - - [22/Oct/2022 14:37:10] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO 2022-10-22 21:48:29,366  * Detected change in 'C:\\Users\\Bikash\\Downloads\\pythonpro\\pythonpro\\app.py', reloading
+INFO 2022-10-22 22:10:29,161 package: mysql.connector.plugins
+INFO 2022-10-22 22:10:29,162 plugin_name: caching_sha2_password
+INFO 2022-10-22 22:10:29,166 AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+INFO 2022-10-22 22:10:29,296 db connection successful
+INFO 2022-10-22 22:10:29,309 127.0.0.1 - - [22/Oct/2022 22:10:29] "[37mGET / HTTP/1.1[0m" 200 -
+INFO 2022-10-22 22:10:36,777  product details successfully fetched for 0th product
+INFO 2022-10-22 22:10:37,017  product details successfully fetched for 1th product
+INFO 2022-10-22 22:10:37,307  product details successfully fetched for 2th product
+INFO 2022-10-22 22:10:37,606  product details successfully fetched for 3th product
+INFO 2022-10-22 22:10:37,838  product details successfully fetched for 4th product
+INFO 2022-10-22 22:10:38,032  product details successfully fetched for 5th product
+INFO 2022-10-22 22:10:38,244  product details successfully fetched for 6th product
+INFO 2022-10-22 22:10:38,460  product details successfully fetched for 7th product
+INFO 2022-10-22 22:10:38,678  product details successfully fetched for 8th product
+INFO 2022-10-22 22:10:38,904  product details successfully fetched for 9th product
+INFO 2022-10-22 22:10:39,186  product details successfully fetched for 10th product
+INFO 2022-10-22 22:10:39,471  product details successfully fetched for 11th product
+INFO 2022-10-22 22:10:39,746  product details successfully fetched for 12th product
+INFO 2022-10-22 22:10:40,118  product details successfully fetched for 13th product
+INFO 2022-10-22 22:10:40,379  product details successfully fetched for 14th product
+INFO 2022-10-22 22:10:40,762  product details successfully fetched for 15th product
+INFO 2022-10-22 22:10:41,034  product details successfully fetched for 16th product
+INFO 2022-10-22 22:10:41,269  product details successfully fetched for 17th product
+INFO 2022-10-22 22:10:41,585  product details successfully fetched for 18th product
+INFO 2022-10-22 22:10:41,977  product details successfully fetched for 19th product
+INFO 2022-10-22 22:10:42,396  product details successfully fetched for 20th product
+INFO 2022-10-22 22:10:42,664  product details successfully fetched for 21th product
+INFO 2022-10-22 22:10:42,920  product details successfully fetched for 22th product
+INFO 2022-10-22 22:10:43,179  product details successfully fetched for 23th product
+ERROR 2022-10-22 22:10:45,925 Failed processing format-parameters; Python 'dict' cannot be converted to a MySQL type
+INFO 2022-10-22 22:10:45,940 127.0.0.1 - - [22/Oct/2022 22:10:45] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO 2022-10-22 22:10:45,979 127.0.0.1 - - [22/Oct/2022 22:10:45] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO 2022-10-22 22:44:29,735 review details successfully fetched from 0th customer 
+INFO 2022-10-22 22:44:29,864 review details successfully fetched from 1th customer 
+INFO 2022-10-22 22:44:29,946 review details successfully fetched from 2th customer 
+INFO 2022-10-22 22:44:30,039 review details successfully fetched from 3th customer 
+INFO 2022-10-22 22:44:30,122 review details successfully fetched from 4th customer 
+INFO 2022-10-22 22:44:30,208 review details successfully fetched from 5th customer 
+INFO 2022-10-22 22:44:30,288 review details successfully fetched from 6th customer 
+INFO 2022-10-22 22:44:30,370 review details successfully fetched from 7th customer 
+INFO 2022-10-22 22:44:30,465 review details successfully fetched from 8th customer 
+INFO 2022-10-22 22:44:30,566 review details successfully fetched from 9th customer 
+INFO 2022-10-22 22:44:30,571 127.0.0.1 - - [22/Oct/2022 22:44:30] "[37mPOST /comment HTTP/1.1[0m" 200 -
+INFO 2022-10-22 22:44:30,746 127.0.0.1 - - [22/Oct/2022 22:44:30] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO 2022-10-22 22:45:59,065 package: mysql.connector.plugins
+INFO 2022-10-22 22:45:59,066 plugin_name: caching_sha2_password
+INFO 2022-10-22 22:45:59,069 AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+INFO 2022-10-22 22:45:59,098 db connection successful
+INFO 2022-10-22 22:45:59,111 127.0.0.1 - - [22/Oct/2022 22:45:59] "[37mGET / HTTP/1.1[0m" 200 -
+INFO 2022-10-22 22:46:05,489  product details successfully fetched for 0th product
+INFO 2022-10-22 22:46:05,607  product details successfully fetched for 1th product
+INFO 2022-10-22 22:46:05,732  product details successfully fetched for 2th product
+INFO 2022-10-22 22:46:05,856  product details successfully fetched for 3th product
+INFO 2022-10-22 22:46:05,977  product details successfully fetched for 4th product
+INFO 2022-10-22 22:46:06,091  product details successfully fetched for 5th product
+INFO 2022-10-22 22:46:06,218  product details successfully fetched for 6th product
+INFO 2022-10-22 22:46:06,396  product details successfully fetched for 7th product
+INFO 2022-10-22 22:46:06,508  product details successfully fetched for 8th product
+INFO 2022-10-22 22:46:06,626  product details successfully fetched for 9th product
+INFO 2022-10-22 22:46:06,741  product details successfully fetched for 10th product
+INFO 2022-10-22 22:46:06,849  product details successfully fetched for 11th product
+INFO 2022-10-22 22:46:06,964  product details successfully fetched for 12th product
+INFO 2022-10-22 22:46:07,078  product details successfully fetched for 13th product
+INFO 2022-10-22 22:46:07,188  product details successfully fetched for 14th product
+INFO 2022-10-22 22:46:07,298  product details successfully fetched for 15th product
+INFO 2022-10-22 22:46:07,409  product details successfully fetched for 16th product
+INFO 2022-10-22 22:46:07,524  product details successfully fetched for 17th product
+INFO 2022-10-22 22:46:07,640  product details successfully fetched for 18th product
+INFO 2022-10-22 22:46:07,755  product details successfully fetched for 19th product
+INFO 2022-10-22 22:46:07,869  product details successfully fetched for 20th product
+INFO 2022-10-22 22:46:07,985  product details successfully fetched for 21th product
+INFO 2022-10-22 22:46:08,146  product details successfully fetched for 22th product
+INFO 2022-10-22 22:46:08,277  product details successfully fetched for 23th product
+ERROR 2022-10-22 22:46:08,518 1406 (22001): Data too long for column 'comment_urls' at row 1
+INFO 2022-10-22 22:46:08,528 127.0.0.1 - - [22/Oct/2022 22:46:08] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO 2022-10-22 22:46:08,553 127.0.0.1 - - [22/Oct/2022 22:46:08] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO 2022-10-22 23:46:47,907  * Detected change in 'C:\\Users\\Bikash\\Downloads\\pythonpro\\pythonpro\\mysql_conn.py', reloading
+INFO 2022-10-22 23:47:09,397 package: mysql.connector.plugins
+INFO 2022-10-22 23:47:09,397 plugin_name: caching_sha2_password
+INFO 2022-10-22 23:47:09,400 AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+INFO 2022-10-22 23:47:09,450 db connection successful
+INFO 2022-10-22 23:47:09,461 127.0.0.1 - - [22/Oct/2022 23:47:09] "[37mGET / HTTP/1.1[0m" 200 -
+INFO 2022-10-22 23:47:14,456  product details successfully fetched for 0th product
+INFO 2022-10-22 23:47:14,563  product details successfully fetched for 1th product
+INFO 2022-10-22 23:47:14,689  product details successfully fetched for 2th product
+INFO 2022-10-22 23:47:14,805  product details successfully fetched for 3th product
+INFO 2022-10-22 23:47:14,924  product details successfully fetched for 4th product
+INFO 2022-10-22 23:47:15,040  product details successfully fetched for 5th product
+INFO 2022-10-22 23:47:15,158  product details successfully fetched for 6th product
+INFO 2022-10-22 23:47:15,274  product details successfully fetched for 7th product
+INFO 2022-10-22 23:47:15,390  product details successfully fetched for 8th product
+INFO 2022-10-22 23:47:15,506  product details successfully fetched for 9th product
+INFO 2022-10-22 23:47:15,615  product details successfully fetched for 10th product
+INFO 2022-10-22 23:47:15,725  product details successfully fetched for 11th product
+INFO 2022-10-22 23:47:15,872  product details successfully fetched for 12th product
+INFO 2022-10-22 23:47:15,984  product details successfully fetched for 13th product
+INFO 2022-10-22 23:47:16,097  product details successfully fetched for 14th product
+INFO 2022-10-22 23:47:16,282  product details successfully fetched for 15th product
+INFO 2022-10-22 23:47:16,416  product details successfully fetched for 16th product
+INFO 2022-10-22 23:47:16,521  product details successfully fetched for 17th product
+INFO 2022-10-22 23:47:16,630  product details successfully fetched for 18th product
+INFO 2022-10-22 23:47:16,744  product details successfully fetched for 19th product
+INFO 2022-10-22 23:47:16,852  product details successfully fetched for 20th product
+INFO 2022-10-22 23:47:16,958  product details successfully fetched for 21th product
+INFO 2022-10-22 23:47:17,074  product details successfully fetched for 22th product
+ERROR 2022-10-22 23:47:17,188 Percentage_off not present for 23th product
+INFO 2022-10-22 23:47:17,188  product details successfully fetched for 23th product
+ERROR 2022-10-22 23:47:17,275 1406 (22001): Data too long for column 'comment_urls' at row 1
+INFO 2022-10-22 23:47:17,280 127.0.0.1 - - [22/Oct/2022 23:47:17] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO 2022-10-22 23:47:17,294 127.0.0.1 - - [22/Oct/2022 23:47:17] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO 2022-10-22 23:51:46,290 package: mysql.connector.plugins
+INFO 2022-10-22 23:51:46,291 plugin_name: caching_sha2_password
+INFO 2022-10-22 23:51:46,293 AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+INFO 2022-10-22 23:51:46,295 db connection successful
+INFO 2022-10-22 23:51:46,305 127.0.0.1 - - [22/Oct/2022 23:51:46] "[37mGET / HTTP/1.1[0m" 200 -
+INFO 2022-10-22 23:51:50,617  product details successfully fetched for 0th product
+INFO 2022-10-22 23:51:50,741  product details successfully fetched for 1th product
+INFO 2022-10-22 23:51:50,863  product details successfully fetched for 2th product
+INFO 2022-10-22 23:51:50,978  product details successfully fetched for 3th product
+INFO 2022-10-22 23:51:51,086  product details successfully fetched for 4th product
+INFO 2022-10-22 23:51:51,195  product details successfully fetched for 5th product
+INFO 2022-10-22 23:51:51,299  product details successfully fetched for 6th product
+INFO 2022-10-22 23:51:51,413  product details successfully fetched for 7th product
+INFO 2022-10-22 23:51:51,523  product details successfully fetched for 8th product
+INFO 2022-10-22 23:51:51,630  product details successfully fetched for 9th product
+INFO 2022-10-22 23:51:51,740  product details successfully fetched for 10th product
+INFO 2022-10-22 23:51:51,853  product details successfully fetched for 11th product
+INFO 2022-10-22 23:51:51,957  product details successfully fetched for 12th product
+INFO 2022-10-22 23:51:52,067  product details successfully fetched for 13th product
+INFO 2022-10-22 23:51:52,177  product details successfully fetched for 14th product
+INFO 2022-10-22 23:51:52,300  product details successfully fetched for 15th product
+INFO 2022-10-22 23:51:52,435  product details successfully fetched for 16th product
+INFO 2022-10-22 23:51:52,555  product details successfully fetched for 17th product
+INFO 2022-10-22 23:51:52,662  product details successfully fetched for 18th product
+INFO 2022-10-22 23:51:52,803  product details successfully fetched for 19th product
+INFO 2022-10-22 23:51:52,958  product details successfully fetched for 20th product
+INFO 2022-10-22 23:51:53,070  product details successfully fetched for 21th product
+INFO 2022-10-22 23:51:53,182  product details successfully fetched for 22th product
+ERROR 2022-10-22 23:51:53,291 Percentage_off not present for 23th product
+INFO 2022-10-22 23:51:53,291  product details successfully fetched for 23th product
+ERROR 2022-10-22 23:51:53,361 1406 (22001): Data too long for column 'comment_urls' at row 1
+INFO 2022-10-22 23:51:53,367 127.0.0.1 - - [22/Oct/2022 23:51:53] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO 2022-10-22 23:51:53,384 127.0.0.1 - - [22/Oct/2022 23:51:53] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO 2022-10-22 23:52:32,535 review details successfully fetched from 0th customer 
+INFO 2022-10-22 23:52:32,649 review details successfully fetched from 1th customer 
+INFO 2022-10-22 23:52:32,774 review details successfully fetched from 2th customer 
+INFO 2022-10-22 23:52:32,899 review details successfully fetched from 3th customer 
+INFO 2022-10-22 23:52:33,024 review details successfully fetched from 4th customer 
+INFO 2022-10-22 23:52:33,139 review details successfully fetched from 5th customer 
+INFO 2022-10-22 23:52:33,224 review details successfully fetched from 6th customer 
+INFO 2022-10-22 23:52:33,309 review details successfully fetched from 7th customer 
+INFO 2022-10-22 23:52:33,395 review details successfully fetched from 8th customer 
+INFO 2022-10-22 23:52:33,478 review details successfully fetched from 9th customer 
+INFO 2022-10-22 23:52:33,482 127.0.0.1 - - [22/Oct/2022 23:52:33] "[37mPOST /comment HTTP/1.1[0m" 200 -
+INFO 2022-10-22 23:52:33,541 127.0.0.1 - - [22/Oct/2022 23:52:33] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO 2022-10-22 23:53:24,709  * Detected change in 'C:\\Users\\Bikash\\Downloads\\pythonpro\\pythonpro\\mysql_conn.py', reloading
+INFO 2022-10-22 23:53:56,663 package: mysql.connector.plugins
+INFO 2022-10-22 23:53:56,664 plugin_name: caching_sha2_password
+INFO 2022-10-22 23:53:56,667 AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+INFO 2022-10-22 23:53:56,668 db connection successful
+INFO 2022-10-22 23:53:56,680 127.0.0.1 - - [22/Oct/2022 23:53:56] "[37mGET / HTTP/1.1[0m" 200 -
+INFO 2022-10-22 23:53:56,747 127.0.0.1 - - [22/Oct/2022 23:53:56] "[37mGET /static/css/main.css HTTP/1.1[0m" 200 -
+INFO 2022-10-22 23:53:56,767 127.0.0.1 - - [22/Oct/2022 23:53:56] "[37mGET /static/css/style.css HTTP/1.1[0m" 200 -
+INFO 2022-10-22 23:53:56,831 127.0.0.1 - - [22/Oct/2022 23:53:56] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO 2022-10-22 23:54:01,874  product details successfully fetched for 0th product
+INFO 2022-10-22 23:54:01,985  product details successfully fetched for 1th product
+INFO 2022-10-22 23:54:02,093  product details successfully fetched for 2th product
+INFO 2022-10-22 23:54:02,203  product details successfully fetched for 3th product
+INFO 2022-10-22 23:54:02,313  product details successfully fetched for 4th product
+INFO 2022-10-22 23:54:02,429  product details successfully fetched for 5th product
+INFO 2022-10-22 23:54:02,540  product details successfully fetched for 6th product
+INFO 2022-10-22 23:54:02,652  product details successfully fetched for 7th product
+INFO 2022-10-22 23:54:02,760  product details successfully fetched for 8th product
+INFO 2022-10-22 23:54:02,875  product details successfully fetched for 9th product
+INFO 2022-10-22 23:54:02,989  product details successfully fetched for 10th product
+INFO 2022-10-22 23:54:03,118  product details successfully fetched for 11th product
+INFO 2022-10-22 23:54:03,239  product details successfully fetched for 12th product
+INFO 2022-10-22 23:54:03,375  product details successfully fetched for 13th product
+INFO 2022-10-22 23:54:03,489  product details successfully fetched for 14th product
+INFO 2022-10-22 23:54:03,605  product details successfully fetched for 15th product
+INFO 2022-10-22 23:54:03,722  product details successfully fetched for 16th product
+INFO 2022-10-22 23:54:03,835  product details successfully fetched for 17th product
+INFO 2022-10-22 23:54:03,950  product details successfully fetched for 18th product
+INFO 2022-10-22 23:54:04,068  product details successfully fetched for 19th product
+INFO 2022-10-22 23:54:04,188  product details successfully fetched for 20th product
+INFO 2022-10-22 23:54:04,297  product details successfully fetched for 21th product
+INFO 2022-10-22 23:54:04,403  product details successfully fetched for 22th product
+ERROR 2022-10-22 23:54:04,512 Percentage_off not present for 23th product
+INFO 2022-10-22 23:54:04,512  product details successfully fetched for 23th product
+ERROR 2022-10-22 23:54:04,597 1406 (22001): Data too long for column 'comment_urls' at row 1
+INFO 2022-10-22 23:54:04,603 127.0.0.1 - - [22/Oct/2022 23:54:04] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO 2022-10-22 23:54:04,633 127.0.0.1 - - [22/Oct/2022 23:54:04] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO 2022-10-23 00:24:43,870 package: mysql.connector.plugins
+INFO 2022-10-23 00:24:43,870 plugin_name: caching_sha2_password
+INFO 2022-10-23 00:24:43,873 AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+INFO 2022-10-23 00:24:43,874 db connection successful
+INFO 2022-10-23 00:24:43,882 127.0.0.1 - - [23/Oct/2022 00:24:43] "[37mGET / HTTP/1.1[0m" 200 -
+INFO 2022-10-23 00:24:44,761 db connection successful
+INFO 2022-10-23 00:24:44,762 127.0.0.1 - - [23/Oct/2022 00:24:44] "[37mGET / HTTP/1.1[0m" 200 -
+INFO 2022-10-23 00:24:45,913 127.0.0.1 - - [23/Oct/2022 00:24:45] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO 2022-10-23 00:25:24,481  product details successfully fetched for 0th product
+INFO 2022-10-23 00:25:24,601  product details successfully fetched for 1th product
+INFO 2022-10-23 00:25:24,729  product details successfully fetched for 2th product
+INFO 2022-10-23 00:25:24,846  product details successfully fetched for 3th product
+INFO 2022-10-23 00:25:24,972  product details successfully fetched for 4th product
+INFO 2022-10-23 00:25:25,098  product details successfully fetched for 5th product
+INFO 2022-10-23 00:25:25,213  product details successfully fetched for 6th product
+INFO 2022-10-23 00:25:25,336  product details successfully fetched for 7th product
+INFO 2022-10-23 00:25:25,457  product details successfully fetched for 8th product
+INFO 2022-10-23 00:25:25,569  product details successfully fetched for 9th product
+INFO 2022-10-23 00:25:25,686  product details successfully fetched for 10th product
+INFO 2022-10-23 00:25:25,807  product details successfully fetched for 11th product
+INFO 2022-10-23 00:25:25,924  product details successfully fetched for 12th product
+INFO 2022-10-23 00:25:26,048  product details successfully fetched for 13th product
+INFO 2022-10-23 00:25:26,160  product details successfully fetched for 14th product
+INFO 2022-10-23 00:25:26,278  product details successfully fetched for 15th product
+INFO 2022-10-23 00:25:26,393  product details successfully fetched for 16th product
+INFO 2022-10-23 00:25:26,512  product details successfully fetched for 17th product
+INFO 2022-10-23 00:25:26,633  product details successfully fetched for 18th product
+INFO 2022-10-23 00:25:26,755  product details successfully fetched for 19th product
+INFO 2022-10-23 00:25:26,870  product details successfully fetched for 20th product
+INFO 2022-10-23 00:25:26,993  product details successfully fetched for 21th product
+INFO 2022-10-23 00:25:27,106  product details successfully fetched for 22th product
+INFO 2022-10-23 00:25:27,219  product details successfully fetched for 23th product
+ERROR 2022-10-23 00:25:27,267 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'max), 
+                                                                        c' at line 6
+INFO 2022-10-23 00:25:27,272 127.0.0.1 - - [23/Oct/2022 00:25:27] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO 2022-10-23 00:25:27,287 127.0.0.1 - - [23/Oct/2022 00:25:27] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO 2022-10-23 00:42:16,944  * Detected change in 'C:\\Users\\Bikash\\Downloads\\pythonpro\\pythonpro\\mysql_conn.py', reloading
+INFO 2022-10-23 00:43:05,133 package: mysql.connector.plugins
+INFO 2022-10-23 00:43:05,134 plugin_name: caching_sha2_password
+INFO 2022-10-23 00:43:05,193 AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+INFO 2022-10-23 00:43:05,211 db connection successful
+INFO 2022-10-23 00:43:05,256 127.0.0.1 - - [23/Oct/2022 00:43:05] "[37mGET / HTTP/1.1[0m" 200 -
+INFO 2022-10-23 00:43:12,907  product details successfully fetched for 0th product
+INFO 2022-10-23 00:43:13,033  product details successfully fetched for 1th product
+INFO 2022-10-23 00:43:13,156  product details successfully fetched for 2th product
+INFO 2022-10-23 00:43:13,274  product details successfully fetched for 3th product
+INFO 2022-10-23 00:43:13,407  product details successfully fetched for 4th product
+INFO 2022-10-23 00:43:13,649  product details successfully fetched for 5th product
+INFO 2022-10-23 00:43:13,789  product details successfully fetched for 6th product
+INFO 2022-10-23 00:43:13,896  product details successfully fetched for 7th product
+INFO 2022-10-23 00:43:14,022  product details successfully fetched for 8th product
+INFO 2022-10-23 00:43:14,151  product details successfully fetched for 9th product
+INFO 2022-10-23 00:43:14,266  product details successfully fetched for 10th product
+INFO 2022-10-23 00:43:14,382  product details successfully fetched for 11th product
+INFO 2022-10-23 00:43:14,508  product details successfully fetched for 12th product
+INFO 2022-10-23 00:43:14,625  product details successfully fetched for 13th product
+INFO 2022-10-23 00:43:14,749  product details successfully fetched for 14th product
+INFO 2022-10-23 00:43:14,865  product details successfully fetched for 15th product
+INFO 2022-10-23 00:43:14,985  product details successfully fetched for 16th product
+INFO 2022-10-23 00:43:15,103  product details successfully fetched for 17th product
+INFO 2022-10-23 00:43:15,226  product details successfully fetched for 18th product
+INFO 2022-10-23 00:43:15,354  product details successfully fetched for 19th product
+INFO 2022-10-23 00:43:15,488  product details successfully fetched for 20th product
+INFO 2022-10-23 00:43:15,656  product details successfully fetched for 21th product
+INFO 2022-10-23 00:43:15,837  product details successfully fetched for 22th product
+INFO 2022-10-23 00:43:15,966  product details successfully fetched for 23th product
+ERROR 2022-10-23 00:43:16,243 1406 (22001): Data too long for column 'comment_urls' at row 1
+INFO 2022-10-23 00:43:16,280 127.0.0.1 - - [23/Oct/2022 00:43:16] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO 2022-10-23 00:43:16,298 127.0.0.1 - - [23/Oct/2022 00:43:16] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO 2022-10-23 00:48:19,339 package: mysql.connector.plugins
+INFO 2022-10-23 00:48:19,340 plugin_name: caching_sha2_password
+INFO 2022-10-23 00:48:19,343 AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+INFO 2022-10-23 00:48:19,345 db connection successful
+INFO 2022-10-23 00:48:19,358 127.0.0.1 - - [23/Oct/2022 00:48:19] "[37mGET / HTTP/1.1[0m" 200 -
+INFO 2022-10-23 00:48:25,579  product details successfully fetched for 0th product
+INFO 2022-10-23 00:48:25,682  product details successfully fetched for 1th product
+INFO 2022-10-23 00:48:25,795  product details successfully fetched for 2th product
+INFO 2022-10-23 00:48:25,903  product details successfully fetched for 3th product
+INFO 2022-10-23 00:48:26,022  product details successfully fetched for 4th product
+INFO 2022-10-23 00:48:26,136  product details successfully fetched for 5th product
+INFO 2022-10-23 00:48:26,244  product details successfully fetched for 6th product
+INFO 2022-10-23 00:48:26,367  product details successfully fetched for 7th product
+INFO 2022-10-23 00:48:26,486  product details successfully fetched for 8th product
+INFO 2022-10-23 00:48:26,595  product details successfully fetched for 9th product
+INFO 2022-10-23 00:48:26,711  product details successfully fetched for 10th product
+INFO 2022-10-23 00:48:26,816  product details successfully fetched for 11th product
+INFO 2022-10-23 00:48:26,922  product details successfully fetched for 12th product
+INFO 2022-10-23 00:48:27,032  product details successfully fetched for 13th product
+INFO 2022-10-23 00:48:27,144  product details successfully fetched for 14th product
+INFO 2022-10-23 00:48:27,254  product details successfully fetched for 15th product
+INFO 2022-10-23 00:48:27,369  product details successfully fetched for 16th product
+INFO 2022-10-23 00:48:27,480  product details successfully fetched for 17th product
+INFO 2022-10-23 00:48:27,598  product details successfully fetched for 18th product
+INFO 2022-10-23 00:48:27,715  product details successfully fetched for 19th product
+INFO 2022-10-23 00:48:27,826  product details successfully fetched for 20th product
+INFO 2022-10-23 00:48:27,933  product details successfully fetched for 21th product
+ERROR 2022-10-23 00:48:28,048 Percentage_off not present for 22th product
+INFO 2022-10-23 00:48:28,049  product details successfully fetched for 22th product
+ERROR 2022-10-23 00:48:28,166 Percentage_off not present for 23th product
+INFO 2022-10-23 00:48:28,166  product details successfully fetched for 23th product
+ERROR 2022-10-23 00:48:28,224 1406 (22001): Data too long for column 'comment_urls' at row 1
+INFO 2022-10-23 00:48:28,229 127.0.0.1 - - [23/Oct/2022 00:48:28] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO 2022-10-23 00:48:28,244 127.0.0.1 - - [23/Oct/2022 00:48:28] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO 2022-10-23 01:09:55,058  * Detected change in 'C:\\Users\\Bikash\\Downloads\\pythonpro\\pythonpro\\mysql_conn.py', reloading
+INFO 2022-10-23 01:12:05,698 package: mysql.connector.plugins
+INFO 2022-10-23 01:12:05,699 plugin_name: caching_sha2_password
+INFO 2022-10-23 01:12:05,701 AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+INFO 2022-10-23 01:12:05,724 db connection successful
+INFO 2022-10-23 01:12:05,731 127.0.0.1 - - [23/Oct/2022 01:12:05] "[37mGET / HTTP/1.1[0m" 200 -
+INFO 2022-10-23 01:12:12,362  product details successfully fetched for 0th product
+INFO 2022-10-23 01:12:12,489  product details successfully fetched for 1th product
+INFO 2022-10-23 01:12:12,611  product details successfully fetched for 2th product
+INFO 2022-10-23 01:12:12,728  product details successfully fetched for 3th product
+INFO 2022-10-23 01:12:12,834  product details successfully fetched for 4th product
+INFO 2022-10-23 01:12:12,950  product details successfully fetched for 5th product
+INFO 2022-10-23 01:12:13,066  product details successfully fetched for 6th product
+INFO 2022-10-23 01:12:13,191  product details successfully fetched for 7th product
+INFO 2022-10-23 01:12:13,308  product details successfully fetched for 8th product
+INFO 2022-10-23 01:12:13,421  product details successfully fetched for 9th product
+INFO 2022-10-23 01:12:13,542  product details successfully fetched for 10th product
+INFO 2022-10-23 01:12:13,655  product details successfully fetched for 11th product
+INFO 2022-10-23 01:12:13,772  product details successfully fetched for 12th product
+INFO 2022-10-23 01:12:13,886  product details successfully fetched for 13th product
+INFO 2022-10-23 01:12:13,994  product details successfully fetched for 14th product
+INFO 2022-10-23 01:12:14,114  product details successfully fetched for 15th product
+INFO 2022-10-23 01:12:14,239  product details successfully fetched for 16th product
+INFO 2022-10-23 01:12:14,365  product details successfully fetched for 17th product
+INFO 2022-10-23 01:12:14,493  product details successfully fetched for 18th product
+INFO 2022-10-23 01:12:14,621  product details successfully fetched for 19th product
+INFO 2022-10-23 01:12:14,740  product details successfully fetched for 20th product
+INFO 2022-10-23 01:12:14,865  product details successfully fetched for 21th product
+INFO 2022-10-23 01:12:14,982  product details successfully fetched for 22th product
+INFO 2022-10-23 01:12:15,097  product details successfully fetched for 23th product
+ERROR 2022-10-23 01:12:15,149 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 7
+INFO 2022-10-23 01:12:15,155 127.0.0.1 - - [23/Oct/2022 01:12:15] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO 2022-10-23 01:12:15,170 127.0.0.1 - - [23/Oct/2022 01:12:15] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO 2022-10-23 01:13:38,786 db connection successful
+INFO 2022-10-23 01:13:38,787 127.0.0.1 - - [23/Oct/2022 01:13:38] "[37mGET / HTTP/1.1[0m" 200 -
+INFO 2022-10-23 01:13:45,505  product details successfully fetched for 0th product
+INFO 2022-10-23 01:13:45,618  product details successfully fetched for 1th product
+INFO 2022-10-23 01:13:45,724  product details successfully fetched for 2th product
+INFO 2022-10-23 01:13:45,833  product details successfully fetched for 3th product
+INFO 2022-10-23 01:13:45,952  product details successfully fetched for 4th product
+INFO 2022-10-23 01:13:46,072  product details successfully fetched for 5th product
+INFO 2022-10-23 01:13:46,192  product details successfully fetched for 6th product
+INFO 2022-10-23 01:13:46,312  product details successfully fetched for 7th product
+INFO 2022-10-23 01:13:46,423  product details successfully fetched for 8th product
+INFO 2022-10-23 01:13:46,537  product details successfully fetched for 9th product
+INFO 2022-10-23 01:13:46,648  product details successfully fetched for 10th product
+INFO 2022-10-23 01:13:46,754  product details successfully fetched for 11th product
+INFO 2022-10-23 01:13:46,862  product details successfully fetched for 12th product
+INFO 2022-10-23 01:13:46,970  product details successfully fetched for 13th product
+INFO 2022-10-23 01:13:47,090  product details successfully fetched for 14th product
+INFO 2022-10-23 01:13:47,208  product details successfully fetched for 15th product
+INFO 2022-10-23 01:13:47,312  product details successfully fetched for 16th product
+INFO 2022-10-23 01:13:47,425  product details successfully fetched for 17th product
+INFO 2022-10-23 01:13:47,541  product details successfully fetched for 18th product
+INFO 2022-10-23 01:13:47,658  product details successfully fetched for 19th product
+INFO 2022-10-23 01:13:47,769  product details successfully fetched for 20th product
+INFO 2022-10-23 01:13:47,884  product details successfully fetched for 21th product
+INFO 2022-10-23 01:13:47,997  product details successfully fetched for 22th product
+INFO 2022-10-23 01:13:48,111  product details successfully fetched for 23th product
+ERROR 2022-10-23 01:13:48,166 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 7
+INFO 2022-10-23 01:13:48,168 127.0.0.1 - - [23/Oct/2022 01:13:48] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO 2022-10-23 01:13:48,181 127.0.0.1 - - [23/Oct/2022 01:13:48] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO 2022-10-23 01:16:21,001  * Detected change in 'C:\\Users\\Bikash\\Downloads\\pythonpro\\pythonpro\\mysql_conn.py', reloading
+ERROR 2022-10-23 01:22:14,782 module 'mysql' has no attribute 'connectcor'
+INFO 2022-10-23 01:22:14,803 127.0.0.1 - - [23/Oct/2022 01:22:14] "[37mGET / HTTP/1.1[0m" 200 -
+INFO 2022-10-23 01:22:20,712  product details successfully fetched for 0th product
+INFO 2022-10-23 01:22:20,823  product details successfully fetched for 1th product
+INFO 2022-10-23 01:22:20,949  product details successfully fetched for 2th product
+INFO 2022-10-23 01:22:21,071  product details successfully fetched for 3th product
+INFO 2022-10-23 01:22:21,255  product details successfully fetched for 4th product
+INFO 2022-10-23 01:22:21,384  product details successfully fetched for 5th product
+INFO 2022-10-23 01:22:21,519  product details successfully fetched for 6th product
+INFO 2022-10-23 01:22:21,685  product details successfully fetched for 7th product
+INFO 2022-10-23 01:22:21,837  product details successfully fetched for 8th product
+INFO 2022-10-23 01:22:21,997  product details successfully fetched for 9th product
+INFO 2022-10-23 01:22:22,122  product details successfully fetched for 10th product
+INFO 2022-10-23 01:22:22,255  product details successfully fetched for 11th product
+INFO 2022-10-23 01:22:22,376  product details successfully fetched for 12th product
+INFO 2022-10-23 01:22:22,504  product details successfully fetched for 13th product
+INFO 2022-10-23 01:22:22,631  product details successfully fetched for 14th product
+INFO 2022-10-23 01:22:22,763  product details successfully fetched for 15th product
+INFO 2022-10-23 01:22:22,890  product details successfully fetched for 16th product
+INFO 2022-10-23 01:22:23,014  product details successfully fetched for 17th product
+INFO 2022-10-23 01:22:23,138  product details successfully fetched for 18th product
+INFO 2022-10-23 01:22:23,268  product details successfully fetched for 19th product
+INFO 2022-10-23 01:22:23,393  product details successfully fetched for 20th product
+INFO 2022-10-23 01:22:23,516  product details successfully fetched for 21th product
+INFO 2022-10-23 01:22:23,635  product details successfully fetched for 22th product
+INFO 2022-10-23 01:22:23,761  product details successfully fetched for 23th product
+ERROR 2022-10-23 01:22:23,761 'function' object has no attribute 'mycursor'
+INFO 2022-10-23 01:22:23,767 127.0.0.1 - - [23/Oct/2022 01:22:23] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO 2022-10-23 01:22:23,796 127.0.0.1 - - [23/Oct/2022 01:22:23] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO 2022-10-23 01:24:36,648  * Detected change in 'C:\\Users\\Bikash\\Downloads\\pythonpro\\pythonpro\\mysql_conn.py', reloading
+INFO 2022-10-23 01:29:58,024 127.0.0.1 - - [23/Oct/2022 01:29:58] "[37mGET / HTTP/1.1[0m" 200 -
+INFO 2022-10-23 01:30:03,798  product details successfully fetched for 0th product
+INFO 2022-10-23 01:30:03,918  product details successfully fetched for 1th product
+INFO 2022-10-23 01:30:04,039  product details successfully fetched for 2th product
+INFO 2022-10-23 01:30:04,158  product details successfully fetched for 3th product
+INFO 2022-10-23 01:30:04,374  product details successfully fetched for 4th product
+INFO 2022-10-23 01:30:04,683  product details successfully fetched for 5th product
+INFO 2022-10-23 01:30:04,940  product details successfully fetched for 6th product
+INFO 2022-10-23 01:30:05,138  product details successfully fetched for 7th product
+INFO 2022-10-23 01:30:05,395  product details successfully fetched for 8th product
+INFO 2022-10-23 01:30:05,510  product details successfully fetched for 9th product
+INFO 2022-10-23 01:30:05,631  product details successfully fetched for 10th product
+INFO 2022-10-23 01:30:05,749  product details successfully fetched for 11th product
+INFO 2022-10-23 01:30:05,869  product details successfully fetched for 12th product
+INFO 2022-10-23 01:30:05,983  product details successfully fetched for 13th product
+INFO 2022-10-23 01:30:06,100  product details successfully fetched for 14th product
+INFO 2022-10-23 01:30:06,215  product details successfully fetched for 15th product
+INFO 2022-10-23 01:30:06,331  product details successfully fetched for 16th product
+INFO 2022-10-23 01:30:06,453  product details successfully fetched for 17th product
+INFO 2022-10-23 01:30:06,569  product details successfully fetched for 18th product
+INFO 2022-10-23 01:30:06,683  product details successfully fetched for 19th product
+INFO 2022-10-23 01:30:06,800  product details successfully fetched for 20th product
+INFO 2022-10-23 01:30:06,916  product details successfully fetched for 21th product
+INFO 2022-10-23 01:30:07,031  product details successfully fetched for 22th product
+INFO 2022-10-23 01:30:07,144  product details successfully fetched for 23th product
+INFO 2022-10-23 01:30:07,164 package: mysql.connector.plugins
+INFO 2022-10-23 01:30:07,164 plugin_name: caching_sha2_password
+INFO 2022-10-23 01:30:07,166 AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+ERROR 2022-10-23 01:30:07,243 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 7
+INFO 2022-10-23 01:30:07,248 127.0.0.1 - - [23/Oct/2022 01:30:07] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO 2022-10-23 01:30:07,263 127.0.0.1 - - [23/Oct/2022 01:30:07] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO 2022-10-23 14:04:34,741 127.0.0.1 - - [23/Oct/2022 14:04:34] "[37mGET / HTTP/1.1[0m" 200 -
+INFO 2022-10-23 14:04:37,445 127.0.0.1 - - [23/Oct/2022 14:04:37] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO 2022-10-23 14:04:37,446 127.0.0.1 - - [23/Oct/2022 14:04:37] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO 2022-10-23 14:04:37,595 127.0.0.1 - - [23/Oct/2022 14:04:37] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO 2022-10-23 14:04:52,734  product details successfully fetched for 0th product
+INFO 2022-10-23 14:04:53,006  product details successfully fetched for 1th product
+INFO 2022-10-23 14:04:53,299  product details successfully fetched for 2th product
+INFO 2022-10-23 14:04:53,581  product details successfully fetched for 3th product
+INFO 2022-10-23 14:04:53,821  product details successfully fetched for 4th product
+INFO 2022-10-23 14:04:54,303  product details successfully fetched for 5th product
+INFO 2022-10-23 14:04:54,634  product details successfully fetched for 6th product
+INFO 2022-10-23 14:04:54,887  product details successfully fetched for 7th product
+INFO 2022-10-23 14:04:55,200  product details successfully fetched for 8th product
+INFO 2022-10-23 14:04:55,412  product details successfully fetched for 9th product
+INFO 2022-10-23 14:04:55,690  product details successfully fetched for 10th product
+INFO 2022-10-23 14:04:55,955  product details successfully fetched for 11th product
+INFO 2022-10-23 14:04:56,262  product details successfully fetched for 12th product
+INFO 2022-10-23 14:04:56,549  product details successfully fetched for 13th product
+INFO 2022-10-23 14:04:56,801  product details successfully fetched for 14th product
+INFO 2022-10-23 14:04:57,205  product details successfully fetched for 15th product
+INFO 2022-10-23 14:04:57,524  product details successfully fetched for 16th product
+INFO 2022-10-23 14:04:57,852  product details successfully fetched for 17th product
+INFO 2022-10-23 14:04:58,186  product details successfully fetched for 18th product
+INFO 2022-10-23 14:04:58,514  product details successfully fetched for 19th product
+INFO 2022-10-23 14:04:58,833  product details successfully fetched for 20th product
+INFO 2022-10-23 14:04:59,222  product details successfully fetched for 21th product
+INFO 2022-10-23 14:04:59,675  product details successfully fetched for 22th product
+ERROR 2022-10-23 14:04:59,906 Percentage_off not present for 23th product
+INFO 2022-10-23 14:04:59,907  product details successfully fetched for 23th product
+INFO 2022-10-23 14:04:59,944 package: mysql.connector.plugins
+INFO 2022-10-23 14:04:59,945 plugin_name: caching_sha2_password
+INFO 2022-10-23 14:05:00,015 AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+ERROR 2022-10-23 14:05:00,072 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 7
+INFO 2022-10-23 14:05:00,092 127.0.0.1 - - [23/Oct/2022 14:05:00] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO 2022-10-23 14:05:00,121 127.0.0.1 - - [23/Oct/2022 14:05:00] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO 2022-10-23 14:07:00,383 127.0.0.1 - - [23/Oct/2022 14:07:00] "[37mGET / HTTP/1.1[0m" 200 -
+INFO 2022-10-23 14:07:09,514  product details successfully fetched for 0th product
+INFO 2022-10-23 14:07:09,826  product details successfully fetched for 1th product
+INFO 2022-10-23 14:07:10,139  product details successfully fetched for 2th product
+INFO 2022-10-23 14:07:10,439  product details successfully fetched for 3th product
+INFO 2022-10-23 14:07:10,714  product details successfully fetched for 4th product
+INFO 2022-10-23 14:07:11,073  product details successfully fetched for 5th product
+INFO 2022-10-23 14:07:11,487  product details successfully fetched for 6th product
+INFO 2022-10-23 14:07:11,767  product details successfully fetched for 7th product
+INFO 2022-10-23 14:07:12,110  product details successfully fetched for 8th product
+INFO 2022-10-23 14:07:12,560  product details successfully fetched for 9th product
+INFO 2022-10-23 14:07:12,964  product details successfully fetched for 10th product
+INFO 2022-10-23 14:07:13,204  product details successfully fetched for 11th product
+INFO 2022-10-23 14:07:13,470  product details successfully fetched for 12th product
+INFO 2022-10-23 14:07:13,754  product details successfully fetched for 13th product
+INFO 2022-10-23 14:07:14,002  product details successfully fetched for 14th product
+INFO 2022-10-23 14:07:14,230  product details successfully fetched for 15th product
+INFO 2022-10-23 14:07:14,460  product details successfully fetched for 16th product
+INFO 2022-10-23 14:07:14,674  product details successfully fetched for 17th product
+INFO 2022-10-23 14:07:14,926  product details successfully fetched for 18th product
+INFO 2022-10-23 14:07:15,333  product details successfully fetched for 19th product
+INFO 2022-10-23 14:07:15,614  product details successfully fetched for 20th product
+INFO 2022-10-23 14:07:15,911  product details successfully fetched for 21th product
+INFO 2022-10-23 14:07:16,123  product details successfully fetched for 22th product
+ERROR 2022-10-23 14:07:16,500 Percentage_off not present for 23th product
+INFO 2022-10-23 14:07:16,502  product details successfully fetched for 23th product
+INFO 2022-10-23 14:07:16,577 package: mysql.connector.plugins
+INFO 2022-10-23 14:07:16,579 plugin_name: caching_sha2_password
+INFO 2022-10-23 14:07:16,589 AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+ERROR 2022-10-23 14:07:16,633 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 7
+INFO 2022-10-23 14:07:16,653 127.0.0.1 - - [23/Oct/2022 14:07:16] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO 2022-10-23 14:07:16,697 127.0.0.1 - - [23/Oct/2022 14:07:16] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO 2022-10-23 14:09:56,511 127.0.0.1 - - [23/Oct/2022 14:09:56] "[37mGET / HTTP/1.1[0m" 200 -
+INFO 2022-10-23 14:10:02,613  product details successfully fetched for 0th product
+INFO 2022-10-23 14:10:02,815  product details successfully fetched for 1th product
+INFO 2022-10-23 14:10:02,997  product details successfully fetched for 2th product
+INFO 2022-10-23 14:10:03,315  product details successfully fetched for 3th product
+INFO 2022-10-23 14:10:03,616  product details successfully fetched for 4th product
+INFO 2022-10-23 14:10:03,844  product details successfully fetched for 5th product
+INFO 2022-10-23 14:10:04,133  product details successfully fetched for 6th product
+INFO 2022-10-23 14:10:04,416  product details successfully fetched for 7th product
+INFO 2022-10-23 14:10:04,692  product details successfully fetched for 8th product
+INFO 2022-10-23 14:10:04,978  product details successfully fetched for 9th product
+INFO 2022-10-23 14:10:05,217  product details successfully fetched for 10th product
+INFO 2022-10-23 14:10:05,412  product details successfully fetched for 11th product
+INFO 2022-10-23 14:10:05,670  product details successfully fetched for 12th product
+INFO 2022-10-23 14:10:06,033  product details successfully fetched for 13th product
+INFO 2022-10-23 14:10:06,281  product details successfully fetched for 14th product
+INFO 2022-10-23 14:10:06,490  product details successfully fetched for 15th product
+INFO 2022-10-23 14:10:06,794  product details successfully fetched for 16th product
+INFO 2022-10-23 14:10:07,127  product details successfully fetched for 17th product
+INFO 2022-10-23 14:10:07,521  product details successfully fetched for 18th product
+INFO 2022-10-23 14:10:07,895  product details successfully fetched for 19th product
+INFO 2022-10-23 14:10:08,257  product details successfully fetched for 20th product
+INFO 2022-10-23 14:10:08,629  product details successfully fetched for 21th product
+INFO 2022-10-23 14:10:08,940  product details successfully fetched for 22th product
+ERROR 2022-10-23 14:10:09,166 Percentage_off not present for 23th product
+INFO 2022-10-23 14:10:09,167  product details successfully fetched for 23th product
+INFO 2022-10-23 14:10:09,203 package: mysql.connector.plugins
+INFO 2022-10-23 14:10:09,203 plugin_name: caching_sha2_password
+INFO 2022-10-23 14:10:09,207 AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+ERROR 2022-10-23 14:10:10,069 1406 (22001): Data too long for column 'percentage_offs' at row 1
+INFO 2022-10-23 14:10:10,087 127.0.0.1 - - [23/Oct/2022 14:10:10] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO 2022-10-23 14:10:10,126 127.0.0.1 - - [23/Oct/2022 14:10:10] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO 2022-10-23 14:11:41,344  * Detected change in 'C:\\Users\\Bikash\\Downloads\\pythonpro\\pythonpro\\mysql_conn.py', reloading
+INFO 2022-10-23 14:12:06,076 127.0.0.1 - - [23/Oct/2022 14:12:06] "[37mGET / HTTP/1.1[0m" 200 -
+INFO 2022-10-23 14:12:13,713  product details successfully fetched for 0th product
+INFO 2022-10-23 14:12:13,984  product details successfully fetched for 1th product
+INFO 2022-10-23 14:12:14,250  product details successfully fetched for 2th product
+INFO 2022-10-23 14:12:14,533  product details successfully fetched for 3th product
+INFO 2022-10-23 14:12:14,821  product details successfully fetched for 4th product
+INFO 2022-10-23 14:12:15,093  product details successfully fetched for 5th product
+INFO 2022-10-23 14:12:15,310  product details successfully fetched for 6th product
+INFO 2022-10-23 14:12:15,518  product details successfully fetched for 7th product
+INFO 2022-10-23 14:12:15,798  product details successfully fetched for 8th product
+INFO 2022-10-23 14:12:16,224  product details successfully fetched for 9th product
+INFO 2022-10-23 14:12:16,414  product details successfully fetched for 10th product
+INFO 2022-10-23 14:12:16,707  product details successfully fetched for 11th product
+INFO 2022-10-23 14:12:17,088  product details successfully fetched for 12th product
+INFO 2022-10-23 14:12:17,282  product details successfully fetched for 13th product
+INFO 2022-10-23 14:12:17,560  product details successfully fetched for 14th product
+INFO 2022-10-23 14:12:17,757  product details successfully fetched for 15th product
+INFO 2022-10-23 14:12:17,972  product details successfully fetched for 16th product
+INFO 2022-10-23 14:12:18,286  product details successfully fetched for 17th product
+INFO 2022-10-23 14:12:18,508  product details successfully fetched for 18th product
+INFO 2022-10-23 14:12:18,813  product details successfully fetched for 19th product
+INFO 2022-10-23 14:12:19,082  product details successfully fetched for 20th product
+INFO 2022-10-23 14:12:19,324  product details successfully fetched for 21th product
+INFO 2022-10-23 14:12:19,569  product details successfully fetched for 22th product
+ERROR 2022-10-23 14:12:19,802 Percentage_off not present for 23th product
+INFO 2022-10-23 14:12:19,803  product details successfully fetched for 23th product
+INFO 2022-10-23 14:12:19,834 package: mysql.connector.plugins
+INFO 2022-10-23 14:12:19,835 plugin_name: caching_sha2_password
+INFO 2022-10-23 14:12:19,837 AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+INFO 2022-10-23 14:12:20,074 127.0.0.1 - - [23/Oct/2022 14:12:20] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO 2022-10-23 14:12:20,097 127.0.0.1 - - [23/Oct/2022 14:12:20] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO 2022-10-23 14:16:54,953 127.0.0.1 - - [23/Oct/2022 14:16:54] "[37mGET / HTTP/1.1[0m" 200 -
+INFO 2022-10-23 14:17:00,359  product details successfully fetched for 0th product
+INFO 2022-10-23 14:17:00,519  product details successfully fetched for 1th product
+INFO 2022-10-23 14:17:00,640  product details successfully fetched for 2th product
+INFO 2022-10-23 14:17:00,754  product details successfully fetched for 3th product
+INFO 2022-10-23 14:17:00,866  product details successfully fetched for 4th product
+INFO 2022-10-23 14:17:00,971  product details successfully fetched for 5th product
+INFO 2022-10-23 14:17:01,074  product details successfully fetched for 6th product
+INFO 2022-10-23 14:17:01,175  product details successfully fetched for 7th product
+INFO 2022-10-23 14:17:01,291  product details successfully fetched for 8th product
+INFO 2022-10-23 14:17:01,412  product details successfully fetched for 9th product
+INFO 2022-10-23 14:17:01,516  product details successfully fetched for 10th product
+INFO 2022-10-23 14:17:01,616  product details successfully fetched for 11th product
+INFO 2022-10-23 14:17:01,719  product details successfully fetched for 12th product
+INFO 2022-10-23 14:17:01,849  product details successfully fetched for 13th product
+INFO 2022-10-23 14:17:01,973  product details successfully fetched for 14th product
+INFO 2022-10-23 14:17:02,083  product details successfully fetched for 15th product
+INFO 2022-10-23 14:17:02,211  product details successfully fetched for 16th product
+INFO 2022-10-23 14:17:02,328  product details successfully fetched for 17th product
+INFO 2022-10-23 14:17:02,438  product details successfully fetched for 18th product
+INFO 2022-10-23 14:17:02,556  product details successfully fetched for 19th product
+INFO 2022-10-23 14:17:02,681  product details successfully fetched for 20th product
+INFO 2022-10-23 14:17:02,802  product details successfully fetched for 21th product
+INFO 2022-10-23 14:17:02,910  product details successfully fetched for 22th product
+INFO 2022-10-23 14:17:03,018  product details successfully fetched for 23th product
+INFO 2022-10-23 14:17:03,038 package: mysql.connector.plugins
+INFO 2022-10-23 14:17:03,038 plugin_name: caching_sha2_password
+INFO 2022-10-23 14:17:03,041 AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+INFO 2022-10-23 14:17:03,144 table creation successful
+INFO 2022-10-23 14:17:03,210 insertion of data successful
+INFO 2022-10-23 14:17:03,264 127.0.0.1 - - [23/Oct/2022 14:17:03] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO 2022-10-23 14:17:03,322 127.0.0.1 - - [23/Oct/2022 14:17:03] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO 2022-10-23 14:21:50,015 review details successfully fetched from 0th customer 
+INFO 2022-10-23 14:21:50,314 review details successfully fetched from 1th customer 
+INFO 2022-10-23 14:21:50,501 review details successfully fetched from 2th customer 
+INFO 2022-10-23 14:21:50,638 review details successfully fetched from 3th customer 
+INFO 2022-10-23 14:21:50,802 review details successfully fetched from 4th customer 
+INFO 2022-10-23 14:21:51,076 review details successfully fetched from 5th customer 
+INFO 2022-10-23 14:21:51,319 review details successfully fetched from 6th customer 
+INFO 2022-10-23 14:21:51,513 review details successfully fetched from 7th customer 
+INFO 2022-10-23 14:21:51,679 review details successfully fetched from 8th customer 
+INFO 2022-10-23 14:21:51,813 review details successfully fetched from 9th customer 
+INFO 2022-10-23 14:21:51,880 127.0.0.1 - - [23/Oct/2022 14:21:51] "[37mPOST /comment HTTP/1.1[0m" 200 -
+INFO 2022-10-23 14:21:51,893 127.0.0.1 - - [23/Oct/2022 14:21:51] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO 2022-10-23 14:22:23,944  product details successfully fetched for 0th product
+INFO 2022-10-23 14:22:24,202  product details successfully fetched for 1th product
+INFO 2022-10-23 14:22:24,510  product details successfully fetched for 2th product
+INFO 2022-10-23 14:22:24,729  product details successfully fetched for 3th product
+INFO 2022-10-23 14:22:24,929  product details successfully fetched for 4th product
+INFO 2022-10-23 14:22:25,135  product details successfully fetched for 5th product
+INFO 2022-10-23 14:22:25,443  product details successfully fetched for 6th product
+INFO 2022-10-23 14:22:25,722  product details successfully fetched for 7th product
+INFO 2022-10-23 14:22:26,002  product details successfully fetched for 8th product
+INFO 2022-10-23 14:22:26,240  product details successfully fetched for 9th product
+INFO 2022-10-23 14:22:26,449  product details successfully fetched for 10th product
+INFO 2022-10-23 14:22:26,813  product details successfully fetched for 11th product
+INFO 2022-10-23 14:22:27,313  product details successfully fetched for 12th product
+INFO 2022-10-23 14:22:27,768  product details successfully fetched for 13th product
+INFO 2022-10-23 14:22:28,062  product details successfully fetched for 14th product
+INFO 2022-10-23 14:22:28,369  product details successfully fetched for 15th product
+INFO 2022-10-23 14:22:28,604  product details successfully fetched for 16th product
+INFO 2022-10-23 14:22:28,881  product details successfully fetched for 17th product
+INFO 2022-10-23 14:22:29,139  product details successfully fetched for 18th product
+INFO 2022-10-23 14:22:29,399  product details successfully fetched for 19th product
+INFO 2022-10-23 14:22:29,644  product details successfully fetched for 20th product
+INFO 2022-10-23 14:22:29,905  product details successfully fetched for 21th product
+INFO 2022-10-23 14:22:30,281  product details successfully fetched for 22th product
+INFO 2022-10-23 14:22:30,651  product details successfully fetched for 23th product
+INFO 2022-10-23 14:22:30,762 table creation successful
+INFO 2022-10-23 14:22:30,794 insertion of data successful
+INFO 2022-10-23 14:22:30,825 127.0.0.1 - - [23/Oct/2022 14:22:30] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO 2022-10-23 14:22:30,871 127.0.0.1 - - [23/Oct/2022 14:22:30] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO 2022-10-23 14:24:45,767 127.0.0.1 - - [23/Oct/2022 14:24:45] "[37mGET / HTTP/1.1[0m" 200 -
+INFO 2022-10-23 14:24:50,412 127.0.0.1 - - [23/Oct/2022 14:24:50] "[37mGET / HTTP/1.1[0m" 200 -
+INFO 2022-10-23 14:24:50,751 127.0.0.1 - - [23/Oct/2022 14:24:50] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO 2022-10-23 14:24:55,480  product details successfully fetched for 0th product
+INFO 2022-10-23 14:24:55,612  product details successfully fetched for 1th product
+INFO 2022-10-23 14:24:55,803  product details successfully fetched for 2th product
+INFO 2022-10-23 14:24:56,000  product details successfully fetched for 3th product
+INFO 2022-10-23 14:24:56,126  product details successfully fetched for 4th product
+INFO 2022-10-23 14:24:56,250  product details successfully fetched for 5th product
+INFO 2022-10-23 14:24:56,427  product details successfully fetched for 6th product
+INFO 2022-10-23 14:24:56,553  product details successfully fetched for 7th product
+INFO 2022-10-23 14:24:56,691  product details successfully fetched for 8th product
+INFO 2022-10-23 14:24:56,805  product details successfully fetched for 9th product
+INFO 2022-10-23 14:24:56,926  product details successfully fetched for 10th product
+INFO 2022-10-23 14:24:57,101  product details successfully fetched for 11th product
+INFO 2022-10-23 14:24:57,224  product details successfully fetched for 12th product
+INFO 2022-10-23 14:24:57,369  product details successfully fetched for 13th product
+INFO 2022-10-23 14:24:57,511  product details successfully fetched for 14th product
+INFO 2022-10-23 14:24:57,633  product details successfully fetched for 15th product
+INFO 2022-10-23 14:24:57,751  product details successfully fetched for 16th product
+INFO 2022-10-23 14:24:57,865  product details successfully fetched for 17th product
+INFO 2022-10-23 14:24:57,988  product details successfully fetched for 18th product
+INFO 2022-10-23 14:24:58,103  product details successfully fetched for 19th product
+INFO 2022-10-23 14:24:58,216  product details successfully fetched for 20th product
+INFO 2022-10-23 14:24:58,421  product details successfully fetched for 21th product
+INFO 2022-10-23 14:24:58,630  product details successfully fetched for 22th product
+ERROR 2022-10-23 14:24:58,848 Percentage_off not present for 23th product
+INFO 2022-10-23 14:24:58,848  product details successfully fetched for 23th product
+INFO 2022-10-23 14:24:58,875 package: mysql.connector.plugins
+INFO 2022-10-23 14:24:58,875 plugin_name: caching_sha2_password
+INFO 2022-10-23 14:24:58,878 AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+INFO 2022-10-23 14:24:58,929 table creation successful
+INFO 2022-10-23 14:24:58,947 insertion of data successful
+INFO 2022-10-23 14:24:59,003 127.0.0.1 - - [23/Oct/2022 14:24:59] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO 2022-10-23 14:24:59,019 127.0.0.1 - - [23/Oct/2022 14:24:59] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO 2022-10-23 14:25:16,979 review details successfully fetched from 0th customer 
+INFO 2022-10-23 14:25:17,210 review details successfully fetched from 1th customer 
+INFO 2022-10-23 14:25:17,330 review details successfully fetched from 2th customer 
+INFO 2022-10-23 14:25:17,417 review details successfully fetched from 3th customer 
+INFO 2022-10-23 14:25:17,511 review details successfully fetched from 4th customer 
+INFO 2022-10-23 14:25:17,593 review details successfully fetched from 5th customer 
+INFO 2022-10-23 14:25:17,679 review details successfully fetched from 6th customer 
+INFO 2022-10-23 14:25:17,778 review details successfully fetched from 7th customer 
+INFO 2022-10-23 14:25:17,904 review details successfully fetched from 8th customer 
+INFO 2022-10-23 14:25:18,093 review details successfully fetched from 9th customer 
+INFO 2022-10-23 14:25:18,102 127.0.0.1 - - [23/Oct/2022 14:25:18] "[37mPOST /comment HTTP/1.1[0m" 200 -
+INFO 2022-10-23 14:25:18,128 127.0.0.1 - - [23/Oct/2022 14:25:18] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO 2022-10-23 14:25:36,828  product details successfully fetched for 0th product
+INFO 2022-10-23 14:25:37,017  product details successfully fetched for 1th product
+INFO 2022-10-23 14:25:37,163  product details successfully fetched for 2th product
+INFO 2022-10-23 14:25:37,314  product details successfully fetched for 3th product
+INFO 2022-10-23 14:25:37,441  product details successfully fetched for 4th product
+INFO 2022-10-23 14:25:37,558  product details successfully fetched for 5th product
+INFO 2022-10-23 14:25:37,677  product details successfully fetched for 6th product
+INFO 2022-10-23 14:25:37,799  product details successfully fetched for 7th product
+INFO 2022-10-23 14:25:37,913  product details successfully fetched for 8th product
+INFO 2022-10-23 14:25:38,044  product details successfully fetched for 9th product
+INFO 2022-10-23 14:25:38,176  product details successfully fetched for 10th product
+INFO 2022-10-23 14:25:38,290  product details successfully fetched for 11th product
+INFO 2022-10-23 14:25:38,428  product details successfully fetched for 12th product
+INFO 2022-10-23 14:25:38,552  product details successfully fetched for 13th product
+INFO 2022-10-23 14:25:38,685  product details successfully fetched for 14th product
+INFO 2022-10-23 14:25:38,810  product details successfully fetched for 15th product
+INFO 2022-10-23 14:25:38,934  product details successfully fetched for 16th product
+INFO 2022-10-23 14:25:39,183  product details successfully fetched for 17th product
+INFO 2022-10-23 14:25:39,441  product details successfully fetched for 18th product
+INFO 2022-10-23 14:25:39,592  product details successfully fetched for 19th product
+INFO 2022-10-23 14:25:39,717  product details successfully fetched for 20th product
+INFO 2022-10-23 14:25:39,833  product details successfully fetched for 21th product
+INFO 2022-10-23 14:25:39,957  product details successfully fetched for 22th product
+INFO 2022-10-23 14:25:40,091  product details successfully fetched for 23th product
+INFO 2022-10-23 14:25:40,212 table creation successful
+INFO 2022-10-23 14:25:40,226 insertion of data successful
+INFO 2022-10-23 14:25:40,247 127.0.0.1 - - [23/Oct/2022 14:25:40] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO 2022-10-23 14:25:40,264 127.0.0.1 - - [23/Oct/2022 14:25:40] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO 2022-10-23 14:26:01,573  product details successfully fetched for 0th product
+INFO 2022-10-23 14:26:01,851  product details successfully fetched for 1th product
+INFO 2022-10-23 14:26:02,143  product details successfully fetched for 2th product
+INFO 2022-10-23 14:26:02,436  product details successfully fetched for 3th product
+INFO 2022-10-23 14:26:02,629  product details successfully fetched for 4th product
+INFO 2022-10-23 14:26:02,735  product details successfully fetched for 5th product
+INFO 2022-10-23 14:26:02,861  product details successfully fetched for 6th product
+INFO 2022-10-23 14:26:03,027  product details successfully fetched for 7th product
+INFO 2022-10-23 14:26:03,169  product details successfully fetched for 8th product
+INFO 2022-10-23 14:26:03,297  product details successfully fetched for 9th product
+INFO 2022-10-23 14:26:03,407  product details successfully fetched for 10th product
+INFO 2022-10-23 14:26:03,512  product details successfully fetched for 11th product
+INFO 2022-10-23 14:26:03,610  product details successfully fetched for 12th product
+INFO 2022-10-23 14:26:03,722  product details successfully fetched for 13th product
+INFO 2022-10-23 14:26:03,844  product details successfully fetched for 14th product
+INFO 2022-10-23 14:26:03,954  product details successfully fetched for 15th product
+INFO 2022-10-23 14:26:04,064  product details successfully fetched for 16th product
+INFO 2022-10-23 14:26:04,176  product details successfully fetched for 17th product
+INFO 2022-10-23 14:26:04,277  product details successfully fetched for 18th product
+INFO 2022-10-23 14:26:04,393  product details successfully fetched for 19th product
+INFO 2022-10-23 14:26:04,492  product details successfully fetched for 20th product
+INFO 2022-10-23 14:26:04,600  product details successfully fetched for 21th product
+INFO 2022-10-23 14:26:04,707  product details successfully fetched for 22th product
+INFO 2022-10-23 14:26:04,809  product details successfully fetched for 23th product
+INFO 2022-10-23 14:26:04,907 table creation successful
+INFO 2022-10-23 14:26:04,917 insertion of data successful
+INFO 2022-10-23 14:26:04,984 127.0.0.1 - - [23/Oct/2022 14:26:04] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO 2022-10-23 14:26:05,022 127.0.0.1 - - [23/Oct/2022 14:26:05] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO 2022-10-23 14:26:11,968 review details successfully fetched from 0th customer 
+INFO 2022-10-23 14:26:12,102 review details successfully fetched from 1th customer 
+INFO 2022-10-23 14:26:12,209 review details successfully fetched from 2th customer 
+INFO 2022-10-23 14:26:12,290 review details successfully fetched from 3th customer 
+INFO 2022-10-23 14:26:12,378 review details successfully fetched from 4th customer 
+INFO 2022-10-23 14:26:12,461 review details successfully fetched from 5th customer 
+INFO 2022-10-23 14:26:12,544 review details successfully fetched from 6th customer 
+INFO 2022-10-23 14:26:12,623 review details successfully fetched from 7th customer 
+INFO 2022-10-23 14:26:12,706 review details successfully fetched from 8th customer 
+INFO 2022-10-23 14:26:12,787 review details successfully fetched from 9th customer 
+INFO 2022-10-23 14:26:12,789 127.0.0.1 - - [23/Oct/2022 14:26:12] "[37mPOST /comment HTTP/1.1[0m" 200 -
+INFO 2022-10-23 14:26:12,801 127.0.0.1 - - [23/Oct/2022 14:26:12] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO 2022-10-23 14:26:23,270 review details successfully fetched from 0th customer 
+INFO 2022-10-23 14:26:23,356 review details successfully fetched from 1th customer 
+INFO 2022-10-23 14:26:23,448 review details successfully fetched from 2th customer 
+INFO 2022-10-23 14:26:23,541 review details successfully fetched from 3th customer 
+INFO 2022-10-23 14:26:23,627 review details successfully fetched from 4th customer 
+INFO 2022-10-23 14:26:23,714 review details successfully fetched from 5th customer 
+INFO 2022-10-23 14:26:23,822 review details successfully fetched from 6th customer 
+INFO 2022-10-23 14:26:23,902 review details successfully fetched from 7th customer 
+INFO 2022-10-23 14:26:23,996 review details successfully fetched from 8th customer 
+INFO 2022-10-23 14:26:24,083 review details successfully fetched from 9th customer 
+INFO 2022-10-23 14:26:24,084 127.0.0.1 - - [23/Oct/2022 14:26:24] "[37mPOST /comment HTTP/1.1[0m" 200 -
+INFO 2022-10-23 14:26:24,096 127.0.0.1 - - [23/Oct/2022 14:26:24] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO 2022-10-24 00:25:10,289 127.0.0.1 - - [24/Oct/2022 00:25:10] "[37mGET / HTTP/1.1[0m" 200 -
+INFO 2022-10-24 00:25:10,869 127.0.0.1 - - [24/Oct/2022 00:25:10] "[37mGET /static/css/main.css HTTP/1.1[0m" 200 -
+INFO 2022-10-24 00:25:10,881 127.0.0.1 - - [24/Oct/2022 00:25:10] "[37mGET /static/css/style.css HTTP/1.1[0m" 200 -
+INFO 2022-10-24 00:25:10,960 127.0.0.1 - - [24/Oct/2022 00:25:10] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO 2022-10-24 00:25:17,581  product details successfully fetched for 0th product
+INFO 2022-10-24 00:25:17,692  product details successfully fetched for 1th product
+INFO 2022-10-24 00:25:17,796  product details successfully fetched for 2th product
+INFO 2022-10-24 00:25:17,899  product details successfully fetched for 3th product
+INFO 2022-10-24 00:25:18,005  product details successfully fetched for 4th product
+INFO 2022-10-24 00:25:18,110  product details successfully fetched for 5th product
+INFO 2022-10-24 00:25:18,219  product details successfully fetched for 6th product
+INFO 2022-10-24 00:25:18,322  product details successfully fetched for 7th product
+INFO 2022-10-24 00:25:18,459  product details successfully fetched for 8th product
+INFO 2022-10-24 00:25:18,604  product details successfully fetched for 9th product
+ERROR 2022-10-24 00:25:18,746 Percentage_off not present for 10th product
+INFO 2022-10-24 00:25:18,748  product details successfully fetched for 10th product
+ERROR 2022-10-24 00:25:18,859 Percentage_off not present for 11th product
+INFO 2022-10-24 00:25:18,860  product details successfully fetched for 11th product
+ERROR 2022-10-24 00:25:18,969 Percentage_off not present for 12th product
+INFO 2022-10-24 00:25:18,969  product details successfully fetched for 12th product
+ERROR 2022-10-24 00:25:19,074 Percentage_off not present for 13th product
+INFO 2022-10-24 00:25:19,075  product details successfully fetched for 13th product
+ERROR 2022-10-24 00:25:19,179 Percentage_off not present for 14th product
+INFO 2022-10-24 00:25:19,180  product details successfully fetched for 14th product
+ERROR 2022-10-24 00:25:19,290 Percentage_off not present for 15th product
+INFO 2022-10-24 00:25:19,290  product details successfully fetched for 15th product
+ERROR 2022-10-24 00:25:19,403 Percentage_off not present for 16th product
+INFO 2022-10-24 00:25:19,403  product details successfully fetched for 16th product
+ERROR 2022-10-24 00:25:19,505 Percentage_off not present for 17th product
+INFO 2022-10-24 00:25:19,505  product details successfully fetched for 17th product
+ERROR 2022-10-24 00:25:19,653 Percentage_off not present for 18th product
+INFO 2022-10-24 00:25:19,654  product details successfully fetched for 18th product
+ERROR 2022-10-24 00:25:19,767 Percentage_off not present for 19th product
+INFO 2022-10-24 00:25:19,767  product details successfully fetched for 19th product
+ERROR 2022-10-24 00:25:19,878 Percentage_off not present for 20th product
+INFO 2022-10-24 00:25:19,878  product details successfully fetched for 20th product
+ERROR 2022-10-24 00:25:19,986 Percentage_off not present for 21th product
+INFO 2022-10-24 00:25:19,987  product details successfully fetched for 21th product
+ERROR 2022-10-24 00:25:20,093 Percentage_off not present for 22th product
+INFO 2022-10-24 00:25:20,093  product details successfully fetched for 22th product
+ERROR 2022-10-24 00:25:20,196 Percentage_off not present for 23th product
+INFO 2022-10-24 00:25:20,197  product details successfully fetched for 23th product
+INFO 2022-10-24 00:25:20,217 package: mysql.connector.plugins
+INFO 2022-10-24 00:25:20,218 plugin_name: caching_sha2_password
+INFO 2022-10-24 00:25:20,288 AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+INFO 2022-10-24 00:25:20,357 table creation successful
+INFO 2022-10-24 00:25:20,418 insertion of data successful
+INFO 2022-10-24 00:25:20,488 127.0.0.1 - - [24/Oct/2022 00:25:20] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO 2022-10-24 00:25:20,510 127.0.0.1 - - [24/Oct/2022 00:25:20] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO 2022-10-24 00:25:32,152 review details successfully fetched from 0th customer 
+INFO 2022-10-24 00:25:32,215 review details successfully fetched from 1th customer 
+INFO 2022-10-24 00:25:32,284 review details successfully fetched from 2th customer 
+INFO 2022-10-24 00:25:32,352 review details successfully fetched from 3th customer 
+INFO 2022-10-24 00:25:32,423 review details successfully fetched from 4th customer 
+INFO 2022-10-24 00:25:32,491 review details successfully fetched from 5th customer 
+INFO 2022-10-24 00:25:32,561 review details successfully fetched from 6th customer 
+INFO 2022-10-24 00:25:32,632 review details successfully fetched from 7th customer 
+ERROR 2022-10-24 00:25:32,669 customer rating is not present 8th review
+INFO 2022-10-24 00:25:32,704 review details successfully fetched from 8th customer 
+ERROR 2022-10-24 00:25:32,737 customer rating is not present 9th review
+INFO 2022-10-24 00:25:32,770 review details successfully fetched from 9th customer 
+ERROR 2022-10-24 00:25:32,770 8rror install pymongo with the srv extra:
+ C:\ProgramData\Anaconda3\envs\pythonpro\python.exe -m pip install "pymongo[srv]": failed to load data into mongodb
+INFO 2022-10-24 00:25:32,807 127.0.0.1 - - [24/Oct/2022 00:25:32] "[37mPOST /comment HTTP/1.1[0m" 200 -
+INFO 2022-10-24 00:25:32,848 127.0.0.1 - - [24/Oct/2022 00:25:32] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO 2022-10-24 00:30:41,821 127.0.0.1 - - [24/Oct/2022 00:30:41] "[37mGET / HTTP/1.1[0m" 200 -
+INFO 2022-10-24 00:30:48,311  product details successfully fetched for 0th product
+INFO 2022-10-24 00:30:48,444  product details successfully fetched for 1th product
+INFO 2022-10-24 00:30:48,575  product details successfully fetched for 2th product
+INFO 2022-10-24 00:30:48,705  product details successfully fetched for 3th product
+INFO 2022-10-24 00:30:48,826  product details successfully fetched for 4th product
+INFO 2022-10-24 00:30:48,949  product details successfully fetched for 5th product
+INFO 2022-10-24 00:30:49,060  product details successfully fetched for 6th product
+INFO 2022-10-24 00:30:49,174  product details successfully fetched for 7th product
+INFO 2022-10-24 00:30:49,290  product details successfully fetched for 8th product
+INFO 2022-10-24 00:30:49,405  product details successfully fetched for 9th product
+INFO 2022-10-24 00:30:49,522  product details successfully fetched for 10th product
+INFO 2022-10-24 00:30:49,640  product details successfully fetched for 11th product
+INFO 2022-10-24 00:30:49,804  product details successfully fetched for 12th product
+INFO 2022-10-24 00:30:49,962  product details successfully fetched for 13th product
+INFO 2022-10-24 00:30:50,133  product details successfully fetched for 14th product
+INFO 2022-10-24 00:30:50,279  product details successfully fetched for 15th product
+INFO 2022-10-24 00:30:50,458  product details successfully fetched for 16th product
+INFO 2022-10-24 00:30:50,584  product details successfully fetched for 17th product
+INFO 2022-10-24 00:30:50,701  product details successfully fetched for 18th product
+INFO 2022-10-24 00:30:50,819  product details successfully fetched for 19th product
+INFO 2022-10-24 00:30:50,932  product details successfully fetched for 20th product
+INFO 2022-10-24 00:30:51,052  product details successfully fetched for 21th product
+INFO 2022-10-24 00:30:51,223  product details successfully fetched for 22th product
+INFO 2022-10-24 00:30:51,354  product details successfully fetched for 23th product
+INFO 2022-10-24 00:30:51,374 package: mysql.connector.plugins
+INFO 2022-10-24 00:30:51,374 plugin_name: caching_sha2_password
+INFO 2022-10-24 00:30:51,377 AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+INFO 2022-10-24 00:30:51,785 table creation successful
+INFO 2022-10-24 00:30:51,797 insertion of data successful
+INFO 2022-10-24 00:30:51,949 127.0.0.1 - - [24/Oct/2022 00:30:51] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO 2022-10-24 00:30:51,970 127.0.0.1 - - [24/Oct/2022 00:30:51] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO 2022-10-24 00:31:19,852 review details successfully fetched from 0th customer 
+INFO 2022-10-24 00:31:19,943 review details successfully fetched from 1th customer 
+INFO 2022-10-24 00:31:20,029 review details successfully fetched from 2th customer 
+INFO 2022-10-24 00:31:20,106 review details successfully fetched from 3th customer 
+INFO 2022-10-24 00:31:20,195 review details successfully fetched from 4th customer 
+INFO 2022-10-24 00:31:20,275 review details successfully fetched from 5th customer 
+INFO 2022-10-24 00:31:20,356 review details successfully fetched from 6th customer 
+INFO 2022-10-24 00:31:20,434 review details successfully fetched from 7th customer 
+INFO 2022-10-24 00:31:20,510 review details successfully fetched from 8th customer 
+INFO 2022-10-24 00:31:20,593 review details successfully fetched from 9th customer 
+INFO 2022-10-24 00:31:22,087 doata insertion successful into mongodb
+INFO 2022-10-24 00:31:22,105 127.0.0.1 - - [24/Oct/2022 00:31:22] "[37mPOST /comment HTTP/1.1[0m" 200 -
+INFO 2022-10-24 00:31:22,133 127.0.0.1 - - [24/Oct/2022 00:31:22] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO 2022-10-24 00:37:27,834  product details successfully fetched for 0th product
+INFO 2022-10-24 00:37:27,901 table creation successful
+INFO 2022-10-24 00:37:27,903 insertion of data successful
+INFO 2022-10-24 00:37:27,958 127.0.0.1 - - [24/Oct/2022 00:37:27] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO 2022-10-24 00:37:27,972 127.0.0.1 - - [24/Oct/2022 00:37:27] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO 2022-10-24 00:39:00,417  product details successfully fetched for 0th product
+INFO 2022-10-24 00:39:00,479 table creation successful
+INFO 2022-10-24 00:39:00,481 insertion of data successful
+INFO 2022-10-24 00:39:00,524 127.0.0.1 - - [24/Oct/2022 00:39:00] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO 2022-10-24 00:39:00,537 127.0.0.1 - - [24/Oct/2022 00:39:00] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO 2022-10-24 00:39:10,840  product details successfully fetched for 0th product
+INFO 2022-10-24 00:39:10,922  product details successfully fetched for 1th product
+INFO 2022-10-24 00:39:11,013  product details successfully fetched for 2th product
+INFO 2022-10-24 00:39:11,097  product details successfully fetched for 3th product
+INFO 2022-10-24 00:39:11,180  product details successfully fetched for 4th product
+INFO 2022-10-24 00:39:11,266  product details successfully fetched for 5th product
+INFO 2022-10-24 00:39:11,350  product details successfully fetched for 6th product
+INFO 2022-10-24 00:39:11,438  product details successfully fetched for 7th product
+INFO 2022-10-24 00:39:11,534  product details successfully fetched for 8th product
+INFO 2022-10-24 00:39:11,612  product details successfully fetched for 9th product
+INFO 2022-10-24 00:39:11,693  product details successfully fetched for 10th product
+INFO 2022-10-24 00:39:11,774  product details successfully fetched for 11th product
+INFO 2022-10-24 00:39:11,851  product details successfully fetched for 12th product
+INFO 2022-10-24 00:39:11,933  product details successfully fetched for 13th product
+INFO 2022-10-24 00:39:12,024  product details successfully fetched for 14th product
+INFO 2022-10-24 00:39:12,108  product details successfully fetched for 15th product
+INFO 2022-10-24 00:39:12,191  product details successfully fetched for 16th product
+INFO 2022-10-24 00:39:12,273  product details successfully fetched for 17th product
+INFO 2022-10-24 00:39:12,364  product details successfully fetched for 18th product
+INFO 2022-10-24 00:39:12,444  product details successfully fetched for 19th product
+INFO 2022-10-24 00:39:12,525  product details successfully fetched for 20th product
+INFO 2022-10-24 00:39:12,607  product details successfully fetched for 21th product
+INFO 2022-10-24 00:39:12,689  product details successfully fetched for 22th product
+INFO 2022-10-24 00:39:12,773  product details successfully fetched for 23th product
+INFO 2022-10-24 00:39:12,878 table creation successful
+INFO 2022-10-24 00:39:12,890 insertion of data successful
+INFO 2022-10-24 00:39:12,936 127.0.0.1 - - [24/Oct/2022 00:39:12] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO 2022-10-24 00:39:12,949 127.0.0.1 - - [24/Oct/2022 00:39:12] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO 2022-10-24 00:39:21,853 review details successfully fetched from 0th customer 
+INFO 2022-10-24 00:39:21,932 review details successfully fetched from 1th customer 
+INFO 2022-10-24 00:39:22,007 review details successfully fetched from 2th customer 
+INFO 2022-10-24 00:39:22,085 review details successfully fetched from 3th customer 
+INFO 2022-10-24 00:39:22,167 review details successfully fetched from 4th customer 
+INFO 2022-10-24 00:39:22,247 review details successfully fetched from 5th customer 
+INFO 2022-10-24 00:39:22,326 review details successfully fetched from 6th customer 
+INFO 2022-10-24 00:39:22,412 review details successfully fetched from 7th customer 
+INFO 2022-10-24 00:39:22,485 review details successfully fetched from 8th customer 
+INFO 2022-10-24 00:39:22,563 review details successfully fetched from 9th customer 
+INFO 2022-10-24 00:39:23,629 doata insertion successful into mongodb
+INFO 2022-10-24 00:39:23,631 127.0.0.1 - - [24/Oct/2022 00:39:23] "[37mPOST /comment HTTP/1.1[0m" 200 -
+INFO 2022-10-24 00:39:23,648 127.0.0.1 - - [24/Oct/2022 00:39:23] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO 2022-10-24 00:41:23,175  * Detected change in 'C:\\Users\\Bikash\\Downloads\\pythonpro\\pythonpro\\mongodb_conn.py', reloading
+INFO 2022-10-24 00:44:41,003 127.0.0.1 - - [24/Oct/2022 00:44:41] "[37mGET / HTTP/1.1[0m" 200 -
+INFO 2022-10-24 00:44:48,361  product details successfully fetched for 0th product
+INFO 2022-10-24 00:44:48,476  product details successfully fetched for 1th product
+INFO 2022-10-24 00:44:48,590  product details successfully fetched for 2th product
+INFO 2022-10-24 00:44:48,707  product details successfully fetched for 3th product
+INFO 2022-10-24 00:44:48,820  product details successfully fetched for 4th product
+INFO 2022-10-24 00:44:48,936  product details successfully fetched for 5th product
+INFO 2022-10-24 00:44:49,045  product details successfully fetched for 6th product
+INFO 2022-10-24 00:44:49,165  product details successfully fetched for 7th product
+INFO 2022-10-24 00:44:49,277  product details successfully fetched for 8th product
+INFO 2022-10-24 00:44:49,393  product details successfully fetched for 9th product
+INFO 2022-10-24 00:44:49,499  product details successfully fetched for 10th product
+INFO 2022-10-24 00:44:49,617  product details successfully fetched for 11th product
+INFO 2022-10-24 00:44:49,727  product details successfully fetched for 12th product
+INFO 2022-10-24 00:44:49,841  product details successfully fetched for 13th product
+INFO 2022-10-24 00:44:49,952  product details successfully fetched for 14th product
+INFO 2022-10-24 00:44:50,071  product details successfully fetched for 15th product
+INFO 2022-10-24 00:44:50,181  product details successfully fetched for 16th product
+INFO 2022-10-24 00:44:50,293  product details successfully fetched for 17th product
+INFO 2022-10-24 00:44:50,408  product details successfully fetched for 18th product
+INFO 2022-10-24 00:44:50,520  product details successfully fetched for 19th product
+INFO 2022-10-24 00:44:50,630  product details successfully fetched for 20th product
+INFO 2022-10-24 00:44:50,750  product details successfully fetched for 21th product
+INFO 2022-10-24 00:44:50,867  product details successfully fetched for 22th product
+INFO 2022-10-24 00:44:50,978  product details successfully fetched for 23th product
+INFO 2022-10-24 00:44:50,999 package: mysql.connector.plugins
+INFO 2022-10-24 00:44:51,000 plugin_name: caching_sha2_password
+INFO 2022-10-24 00:44:51,003 AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+INFO 2022-10-24 00:44:51,115 table creation successful
+INFO 2022-10-24 00:44:51,131 insertion of data successful
+INFO 2022-10-24 00:44:51,251 127.0.0.1 - - [24/Oct/2022 00:44:51] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO 2022-10-24 00:44:51,279 127.0.0.1 - - [24/Oct/2022 00:44:51] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO 2022-10-24 00:44:58,034 review details successfully fetched from 0th customer 
+INFO 2022-10-24 00:44:58,151 review details successfully fetched from 1th customer 
+INFO 2022-10-24 00:44:58,246 review details successfully fetched from 2th customer 
+INFO 2022-10-24 00:44:58,334 review details successfully fetched from 3th customer 
+INFO 2022-10-24 00:44:58,418 review details successfully fetched from 4th customer 
+INFO 2022-10-24 00:44:58,506 review details successfully fetched from 5th customer 
+INFO 2022-10-24 00:44:58,597 review details successfully fetched from 6th customer 
+INFO 2022-10-24 00:44:58,682 review details successfully fetched from 7th customer 
+INFO 2022-10-24 00:44:58,774 review details successfully fetched from 8th customer 
+INFO 2022-10-24 00:44:58,861 review details successfully fetched from 9th customer 
+ERROR 2022-10-24 00:44:59,017 'Collection' object is not callable. If you meant to call the 'deletemany' method on a 'Collection' object it is failing because no such method exists.: failed to load data into mongodb
+INFO 2022-10-24 00:44:59,023 127.0.0.1 - - [24/Oct/2022 00:44:59] "[37mPOST /comment HTTP/1.1[0m" 200 -
+INFO 2022-10-24 00:44:59,034 127.0.0.1 - - [24/Oct/2022 00:44:59] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO 2022-10-24 00:47:12,994 127.0.0.1 - - [24/Oct/2022 00:47:12] "[37mGET / HTTP/1.1[0m" 200 -
+INFO 2022-10-24 00:47:25,171  product details successfully fetched for 0th product
+INFO 2022-10-24 00:47:25,269  product details successfully fetched for 1th product
+INFO 2022-10-24 00:47:25,366  product details successfully fetched for 2th product
+INFO 2022-10-24 00:47:25,459  product details successfully fetched for 3th product
+INFO 2022-10-24 00:47:25,571  product details successfully fetched for 4th product
+INFO 2022-10-24 00:47:25,674  product details successfully fetched for 5th product
+INFO 2022-10-24 00:47:25,777  product details successfully fetched for 6th product
+INFO 2022-10-24 00:47:25,879  product details successfully fetched for 7th product
+INFO 2022-10-24 00:47:25,984  product details successfully fetched for 8th product
+INFO 2022-10-24 00:47:26,085  product details successfully fetched for 9th product
+INFO 2022-10-24 00:47:26,189  product details successfully fetched for 10th product
+INFO 2022-10-24 00:47:26,285  product details successfully fetched for 11th product
+INFO 2022-10-24 00:47:26,379  product details successfully fetched for 12th product
+INFO 2022-10-24 00:47:26,484  product details successfully fetched for 13th product
+INFO 2022-10-24 00:47:26,580  product details successfully fetched for 14th product
+INFO 2022-10-24 00:47:26,687  product details successfully fetched for 15th product
+INFO 2022-10-24 00:47:26,789  product details successfully fetched for 16th product
+INFO 2022-10-24 00:47:26,891  product details successfully fetched for 17th product
+INFO 2022-10-24 00:47:26,987  product details successfully fetched for 18th product
+INFO 2022-10-24 00:47:27,099  product details successfully fetched for 19th product
+INFO 2022-10-24 00:47:27,206  product details successfully fetched for 20th product
+INFO 2022-10-24 00:47:27,309  product details successfully fetched for 21th product
+INFO 2022-10-24 00:47:27,410  product details successfully fetched for 22th product
+INFO 2022-10-24 00:47:27,504  product details successfully fetched for 23th product
+INFO 2022-10-24 00:47:27,563 package: mysql.connector.plugins
+INFO 2022-10-24 00:47:27,564 plugin_name: caching_sha2_password
+INFO 2022-10-24 00:47:27,566 AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+INFO 2022-10-24 00:47:27,620 table creation successful
+INFO 2022-10-24 00:47:27,633 insertion of data successful
+INFO 2022-10-24 00:47:27,658 127.0.0.1 - - [24/Oct/2022 00:47:27] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO 2022-10-24 00:47:27,675 127.0.0.1 - - [24/Oct/2022 00:47:27] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO 2022-10-24 00:47:30,646 review details successfully fetched from 0th customer 
+INFO 2022-10-24 00:47:30,733 review details successfully fetched from 1th customer 
+INFO 2022-10-24 00:47:30,825 review details successfully fetched from 2th customer 
+INFO 2022-10-24 00:47:30,915 review details successfully fetched from 3th customer 
+INFO 2022-10-24 00:47:30,998 review details successfully fetched from 4th customer 
+INFO 2022-10-24 00:47:31,081 review details successfully fetched from 5th customer 
+INFO 2022-10-24 00:47:31,166 review details successfully fetched from 6th customer 
+INFO 2022-10-24 00:47:31,246 review details successfully fetched from 7th customer 
+INFO 2022-10-24 00:47:31,322 review details successfully fetched from 8th customer 
+INFO 2022-10-24 00:47:31,407 review details successfully fetched from 9th customer 
+ERROR 2022-10-24 00:47:31,588 'Collection' object is not callable. If you meant to call the 'deleteMany' method on a 'Collection' object it is failing because no such method exists.: failed to load data into mongodb
+INFO 2022-10-24 00:47:31,592 127.0.0.1 - - [24/Oct/2022 00:47:31] "[37mPOST /comment HTTP/1.1[0m" 200 -
+INFO 2022-10-24 00:47:31,605 127.0.0.1 - - [24/Oct/2022 00:47:31] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO 2022-10-24 00:48:55,773 127.0.0.1 - - [24/Oct/2022 00:48:55] "[37mGET / HTTP/1.1[0m" 200 -
+INFO 2022-10-24 00:48:56,051 127.0.0.1 - - [24/Oct/2022 00:48:56] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO 2022-10-24 00:49:02,400  product details successfully fetched for 0th product
+INFO 2022-10-24 00:49:02,514  product details successfully fetched for 1th product
+INFO 2022-10-24 00:49:02,637  product details successfully fetched for 2th product
+INFO 2022-10-24 00:49:02,754  product details successfully fetched for 3th product
+INFO 2022-10-24 00:49:02,863  product details successfully fetched for 4th product
+INFO 2022-10-24 00:49:02,973  product details successfully fetched for 5th product
+INFO 2022-10-24 00:49:03,077  product details successfully fetched for 6th product
+INFO 2022-10-24 00:49:03,201  product details successfully fetched for 7th product
+INFO 2022-10-24 00:49:03,328  product details successfully fetched for 8th product
+INFO 2022-10-24 00:49:03,448  product details successfully fetched for 9th product
+INFO 2022-10-24 00:49:03,552  product details successfully fetched for 10th product
+INFO 2022-10-24 00:49:03,657  product details successfully fetched for 11th product
+INFO 2022-10-24 00:49:03,772  product details successfully fetched for 12th product
+INFO 2022-10-24 00:49:03,872  product details successfully fetched for 13th product
+INFO 2022-10-24 00:49:03,988  product details successfully fetched for 14th product
+INFO 2022-10-24 00:49:04,104  product details successfully fetched for 15th product
+INFO 2022-10-24 00:49:04,216  product details successfully fetched for 16th product
+INFO 2022-10-24 00:49:04,338  product details successfully fetched for 17th product
+INFO 2022-10-24 00:49:04,450  product details successfully fetched for 18th product
+INFO 2022-10-24 00:49:04,562  product details successfully fetched for 19th product
+INFO 2022-10-24 00:49:04,674  product details successfully fetched for 20th product
+INFO 2022-10-24 00:49:04,791  product details successfully fetched for 21th product
+INFO 2022-10-24 00:49:04,926  product details successfully fetched for 22th product
+ERROR 2022-10-24 00:49:05,184 Percentage_off not present for 23th product
+INFO 2022-10-24 00:49:05,185  product details successfully fetched for 23th product
+INFO 2022-10-24 00:49:05,258 table creation successful
+INFO 2022-10-24 00:49:05,274 insertion of data successful
+INFO 2022-10-24 00:49:05,304 127.0.0.1 - - [24/Oct/2022 00:49:05] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO 2022-10-24 00:49:05,333 127.0.0.1 - - [24/Oct/2022 00:49:05] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO 2022-10-24 00:49:08,086 review details successfully fetched from 0th customer 
+INFO 2022-10-24 00:49:08,188 review details successfully fetched from 1th customer 
+INFO 2022-10-24 00:49:08,348 review details successfully fetched from 2th customer 
+INFO 2022-10-24 00:49:08,508 review details successfully fetched from 3th customer 
+INFO 2022-10-24 00:49:08,652 review details successfully fetched from 4th customer 
+INFO 2022-10-24 00:49:08,769 review details successfully fetched from 5th customer 
+INFO 2022-10-24 00:49:08,852 review details successfully fetched from 6th customer 
+INFO 2022-10-24 00:49:08,972 review details successfully fetched from 7th customer 
+INFO 2022-10-24 00:49:09,057 review details successfully fetched from 8th customer 
+INFO 2022-10-24 00:49:09,148 review details successfully fetched from 9th customer 
+ERROR 2022-10-24 00:49:09,255 'Collection' object is not callable. If you meant to call the 'deleteMany' method on a 'Collection' object it is failing because no such method exists.: failed to load data into mongodb
+INFO 2022-10-24 00:49:09,256 127.0.0.1 - - [24/Oct/2022 00:49:09] "[37mPOST /comment HTTP/1.1[0m" 200 -
+INFO 2022-10-24 00:49:09,278 127.0.0.1 - - [24/Oct/2022 00:49:09] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO 2022-10-24 00:56:29,136 127.0.0.1 - - [24/Oct/2022 00:56:29] "[37mGET / HTTP/1.1[0m" 200 -
+INFO 2022-10-24 00:56:34,245  product details successfully fetched for 0th product
+INFO 2022-10-24 00:56:34,380  product details successfully fetched for 1th product
+INFO 2022-10-24 00:56:34,508  product details successfully fetched for 2th product
+INFO 2022-10-24 00:56:34,629  product details successfully fetched for 3th product
+INFO 2022-10-24 00:56:34,731  product details successfully fetched for 4th product
+INFO 2022-10-24 00:56:34,850  product details successfully fetched for 5th product
+INFO 2022-10-24 00:56:34,969  product details successfully fetched for 6th product
+INFO 2022-10-24 00:56:35,093  product details successfully fetched for 7th product
+INFO 2022-10-24 00:56:35,212  product details successfully fetched for 8th product
+INFO 2022-10-24 00:56:35,329  product details successfully fetched for 9th product
+INFO 2022-10-24 00:56:35,442  product details successfully fetched for 10th product
+INFO 2022-10-24 00:56:35,567  product details successfully fetched for 11th product
+INFO 2022-10-24 00:56:35,682  product details successfully fetched for 12th product
+INFO 2022-10-24 00:56:35,801  product details successfully fetched for 13th product
+INFO 2022-10-24 00:56:35,913  product details successfully fetched for 14th product
+INFO 2022-10-24 00:56:36,022  product details successfully fetched for 15th product
+INFO 2022-10-24 00:56:36,126  product details successfully fetched for 16th product
+INFO 2022-10-24 00:56:36,231  product details successfully fetched for 17th product
+INFO 2022-10-24 00:56:36,333  product details successfully fetched for 18th product
+INFO 2022-10-24 00:56:36,442  product details successfully fetched for 19th product
+INFO 2022-10-24 00:56:36,542  product details successfully fetched for 20th product
+INFO 2022-10-24 00:56:36,646  product details successfully fetched for 21th product
+INFO 2022-10-24 00:56:36,756  product details successfully fetched for 22th product
+INFO 2022-10-24 00:56:36,865  product details successfully fetched for 23th product
+INFO 2022-10-24 00:56:36,886 package: mysql.connector.plugins
+INFO 2022-10-24 00:56:36,887 plugin_name: caching_sha2_password
+INFO 2022-10-24 00:56:36,888 AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+INFO 2022-10-24 00:56:36,960 table creation successful
+INFO 2022-10-24 00:56:36,970 insertion of data successful
+INFO 2022-10-24 00:56:36,999 127.0.0.1 - - [24/Oct/2022 00:56:36] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO 2022-10-24 00:56:37,015 127.0.0.1 - - [24/Oct/2022 00:56:37] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO 2022-10-24 00:56:42,021 review details successfully fetched from 0th customer 
+INFO 2022-10-24 00:56:42,103 review details successfully fetched from 1th customer 
+INFO 2022-10-24 00:56:42,191 review details successfully fetched from 2th customer 
+INFO 2022-10-24 00:56:42,278 review details successfully fetched from 3th customer 
+INFO 2022-10-24 00:56:42,363 review details successfully fetched from 4th customer 
+INFO 2022-10-24 00:56:42,447 review details successfully fetched from 5th customer 
+INFO 2022-10-24 00:56:42,554 review details successfully fetched from 6th customer 
+INFO 2022-10-24 00:56:42,639 review details successfully fetched from 7th customer 
+INFO 2022-10-24 00:56:42,732 review details successfully fetched from 8th customer 
+INFO 2022-10-24 00:56:42,816 review details successfully fetched from 9th customer 
+INFO 2022-10-24 00:56:43,876 doata insertion successful into mongodb
+INFO 2022-10-24 00:56:43,880 127.0.0.1 - - [24/Oct/2022 00:56:43] "[37mPOST /comment HTTP/1.1[0m" 200 -
+INFO 2022-10-24 00:56:43,892 127.0.0.1 - - [24/Oct/2022 00:56:43] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO 2022-10-24 01:21:00,485  * Detected change in 'C:\\Users\\Bikash\\Downloads\\pythonpro\\pythonpro\\app.py', reloading
+INFO 2022-10-24 01:21:35,818 127.0.0.1 - - [24/Oct/2022 01:21:35] "[37mGET / HTTP/1.1[0m" 200 -
+INFO 2022-10-24 01:21:41,963  product details successfully fetched for 0th product
+INFO 2022-10-24 01:21:42,075  product details successfully fetched for 1th product
+INFO 2022-10-24 01:21:42,200  product details successfully fetched for 2th product
+INFO 2022-10-24 01:21:42,337  product details successfully fetched for 3th product
+INFO 2022-10-24 01:21:42,468  product details successfully fetched for 4th product
+INFO 2022-10-24 01:21:42,613  product details successfully fetched for 5th product
+INFO 2022-10-24 01:21:42,726  product details successfully fetched for 6th product
+INFO 2022-10-24 01:21:42,840  product details successfully fetched for 7th product
+INFO 2022-10-24 01:21:42,951  product details successfully fetched for 8th product
+INFO 2022-10-24 01:21:43,056  product details successfully fetched for 9th product
+INFO 2022-10-24 01:21:43,170  product details successfully fetched for 10th product
+INFO 2022-10-24 01:21:43,274  product details successfully fetched for 11th product
+INFO 2022-10-24 01:21:43,380  product details successfully fetched for 12th product
+INFO 2022-10-24 01:21:43,484  product details successfully fetched for 13th product
+INFO 2022-10-24 01:21:43,589  product details successfully fetched for 14th product
+INFO 2022-10-24 01:21:43,692  product details successfully fetched for 15th product
+INFO 2022-10-24 01:21:43,806  product details successfully fetched for 16th product
+INFO 2022-10-24 01:21:43,919  product details successfully fetched for 17th product
+INFO 2022-10-24 01:21:44,021  product details successfully fetched for 18th product
+INFO 2022-10-24 01:21:44,127  product details successfully fetched for 19th product
+INFO 2022-10-24 01:21:44,252  product details successfully fetched for 20th product
+INFO 2022-10-24 01:21:44,359  product details successfully fetched for 21th product
+ERROR 2022-10-24 01:21:44,464 Percentage_off not present for 22th product
+INFO 2022-10-24 01:21:44,465  product details successfully fetched for 22th product
+ERROR 2022-10-24 01:21:44,567 Percentage_off not present for 23th product
+INFO 2022-10-24 01:21:44,568  product details successfully fetched for 23th product
+INFO 2022-10-24 01:21:44,585 package: mysql.connector.plugins
+INFO 2022-10-24 01:21:44,586 plugin_name: caching_sha2_password
+INFO 2022-10-24 01:21:44,588 AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+INFO 2022-10-24 01:21:44,635 table creation successful
+INFO 2022-10-24 01:21:44,645 insertion of data successful
+INFO 2022-10-24 01:21:44,675 127.0.0.1 - - [24/Oct/2022 01:21:44] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO 2022-10-24 01:21:44,699 127.0.0.1 - - [24/Oct/2022 01:21:44] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO 2022-10-24 01:21:47,216 review details successfully fetched from 0th customer 
+ERROR 2022-10-24 01:21:47,216 module 'mongodb_conn' has no attribute 'collection' error in review fetching
+INFO 2022-10-24 01:21:47,217 127.0.0.1 - - [24/Oct/2022 01:21:47] "[37mPOST /comment HTTP/1.1[0m" 200 -
+INFO 2022-10-24 01:24:38,137  * Detected change in 'C:\\Users\\Bikash\\Downloads\\pythonpro\\pythonpro\\app.py', reloading
+INFO 2022-10-24 01:25:31,265 127.0.0.1 - - [24/Oct/2022 01:25:31] "[37mGET / HTTP/1.1[0m" 200 -
+INFO 2022-10-24 01:25:50,975  product details successfully fetched for 0th product
+INFO 2022-10-24 01:25:51,079  product details successfully fetched for 1th product
+INFO 2022-10-24 01:25:51,186  product details successfully fetched for 2th product
+INFO 2022-10-24 01:25:51,295  product details successfully fetched for 3th product
+INFO 2022-10-24 01:25:51,413  product details successfully fetched for 4th product
+INFO 2022-10-24 01:25:51,523  product details successfully fetched for 5th product
+INFO 2022-10-24 01:25:51,640  product details successfully fetched for 6th product
+INFO 2022-10-24 01:25:51,747  product details successfully fetched for 7th product
+INFO 2022-10-24 01:25:51,857  product details successfully fetched for 8th product
+INFO 2022-10-24 01:25:51,965  product details successfully fetched for 9th product
+INFO 2022-10-24 01:25:52,075  product details successfully fetched for 10th product
+INFO 2022-10-24 01:25:52,184  product details successfully fetched for 11th product
+INFO 2022-10-24 01:25:52,287  product details successfully fetched for 12th product
+INFO 2022-10-24 01:25:52,393  product details successfully fetched for 13th product
+INFO 2022-10-24 01:25:52,497  product details successfully fetched for 14th product
+INFO 2022-10-24 01:25:52,604  product details successfully fetched for 15th product
+INFO 2022-10-24 01:25:52,706  product details successfully fetched for 16th product
+INFO 2022-10-24 01:25:52,826  product details successfully fetched for 17th product
+INFO 2022-10-24 01:25:52,954  product details successfully fetched for 18th product
+INFO 2022-10-24 01:25:53,071  product details successfully fetched for 19th product
+INFO 2022-10-24 01:25:53,169  product details successfully fetched for 20th product
+INFO 2022-10-24 01:25:53,275  product details successfully fetched for 21th product
+INFO 2022-10-24 01:25:53,378  product details successfully fetched for 22th product
+INFO 2022-10-24 01:25:53,481  product details successfully fetched for 23th product
+INFO 2022-10-24 01:25:53,501 package: mysql.connector.plugins
+INFO 2022-10-24 01:25:53,501 plugin_name: caching_sha2_password
+INFO 2022-10-24 01:25:53,503 AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+INFO 2022-10-24 01:25:53,579 table creation successful
+INFO 2022-10-24 01:25:53,590 insertion of data successful
+INFO 2022-10-24 01:25:53,629 127.0.0.1 - - [24/Oct/2022 01:25:53] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO 2022-10-24 01:25:53,643 127.0.0.1 - - [24/Oct/2022 01:25:53] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO 2022-10-24 01:25:56,276 review details successfully fetched from 0th customer 
+ERROR 2022-10-24 01:25:56,276 'function' object has no attribute 'collection' error in review fetching
+INFO 2022-10-24 01:25:56,277 127.0.0.1 - - [24/Oct/2022 01:25:56] "[37mPOST /comment HTTP/1.1[0m" 200 -
+INFO 2022-10-24 01:28:46,308 127.0.0.1 - - [24/Oct/2022 01:28:46] "[37mGET / HTTP/1.1[0m" 200 -
+INFO 2022-10-24 01:28:51,953  product details successfully fetched for 0th product
+INFO 2022-10-24 01:28:52,084  product details successfully fetched for 1th product
+INFO 2022-10-24 01:28:52,213  product details successfully fetched for 2th product
+INFO 2022-10-24 01:28:52,329  product details successfully fetched for 3th product
+INFO 2022-10-24 01:28:52,442  product details successfully fetched for 4th product
+INFO 2022-10-24 01:28:52,557  product details successfully fetched for 5th product
+INFO 2022-10-24 01:28:52,667  product details successfully fetched for 6th product
+INFO 2022-10-24 01:28:52,774  product details successfully fetched for 7th product
+INFO 2022-10-24 01:28:52,880  product details successfully fetched for 8th product
+INFO 2022-10-24 01:28:52,989  product details successfully fetched for 9th product
+INFO 2022-10-24 01:28:53,122  product details successfully fetched for 10th product
+INFO 2022-10-24 01:28:53,256  product details successfully fetched for 11th product
+INFO 2022-10-24 01:28:53,383  product details successfully fetched for 12th product
+INFO 2022-10-24 01:28:53,517  product details successfully fetched for 13th product
+INFO 2022-10-24 01:28:53,638  product details successfully fetched for 14th product
+INFO 2022-10-24 01:28:53,758  product details successfully fetched for 15th product
+INFO 2022-10-24 01:28:53,869  product details successfully fetched for 16th product
+INFO 2022-10-24 01:28:53,976  product details successfully fetched for 17th product
+INFO 2022-10-24 01:28:54,084  product details successfully fetched for 18th product
+INFO 2022-10-24 01:28:54,195  product details successfully fetched for 19th product
+INFO 2022-10-24 01:28:54,301  product details successfully fetched for 20th product
+INFO 2022-10-24 01:28:54,412  product details successfully fetched for 21th product
+INFO 2022-10-24 01:28:54,529  product details successfully fetched for 22th product
+INFO 2022-10-24 01:28:54,642  product details successfully fetched for 23th product
+INFO 2022-10-24 01:28:54,661 package: mysql.connector.plugins
+INFO 2022-10-24 01:28:54,662 plugin_name: caching_sha2_password
+INFO 2022-10-24 01:28:54,665 AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+INFO 2022-10-24 01:28:54,740 table creation successful
+INFO 2022-10-24 01:28:54,759 insertion of data successful
+INFO 2022-10-24 01:28:54,791 127.0.0.1 - - [24/Oct/2022 01:28:54] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO 2022-10-24 01:28:54,807 127.0.0.1 - - [24/Oct/2022 01:28:54] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO 2022-10-24 01:28:57,247 review details successfully fetched from 0th customer 
+INFO 2022-10-24 01:28:57,336 review details successfully fetched from 1th customer 
+INFO 2022-10-24 01:28:57,422 review details successfully fetched from 2th customer 
+INFO 2022-10-24 01:28:57,505 review details successfully fetched from 3th customer 
+INFO 2022-10-24 01:28:57,597 review details successfully fetched from 4th customer 
+INFO 2022-10-24 01:28:57,682 review details successfully fetched from 5th customer 
+INFO 2022-10-24 01:28:57,770 review details successfully fetched from 6th customer 
+INFO 2022-10-24 01:28:57,856 review details successfully fetched from 7th customer 
+INFO 2022-10-24 01:28:57,937 review details successfully fetched from 8th customer 
+INFO 2022-10-24 01:28:58,025 review details successfully fetched from 9th customer 
+INFO 2022-10-24 01:28:59,188 doata insertion successful into mongodb
+ERROR 2022-10-24 01:28:59,190 module 'mongodb_conn' has no attribute 'collection' error in review fetching
+INFO 2022-10-24 01:28:59,193 127.0.0.1 - - [24/Oct/2022 01:28:59] "[37mPOST /comment HTTP/1.1[0m" 200 -
+INFO 2022-10-24 01:39:11,008  * Detected change in 'C:\\Users\\Bikash\\Downloads\\pythonpro\\pythonpro\\mongodb_conn.py', reloading
+INFO 2022-10-24 01:51:14,349 127.0.0.1 - - [24/Oct/2022 01:51:14] "[37mGET / HTTP/1.1[0m" 200 -
+INFO 2022-10-24 01:51:23,438  product details successfully fetched for 0th product
+INFO 2022-10-24 01:51:23,539  product details successfully fetched for 1th product
+INFO 2022-10-24 01:51:23,637  product details successfully fetched for 2th product
+INFO 2022-10-24 01:51:23,736  product details successfully fetched for 3th product
+INFO 2022-10-24 01:51:23,841  product details successfully fetched for 4th product
+INFO 2022-10-24 01:51:23,938  product details successfully fetched for 5th product
+INFO 2022-10-24 01:51:24,036  product details successfully fetched for 6th product
+INFO 2022-10-24 01:51:24,144  product details successfully fetched for 7th product
+INFO 2022-10-24 01:51:24,241  product details successfully fetched for 8th product
+INFO 2022-10-24 01:51:24,346  product details successfully fetched for 9th product
+INFO 2022-10-24 01:51:24,475  product details successfully fetched for 10th product
+INFO 2022-10-24 01:51:24,579  product details successfully fetched for 11th product
+INFO 2022-10-24 01:51:24,681  product details successfully fetched for 12th product
+INFO 2022-10-24 01:51:24,791  product details successfully fetched for 13th product
+INFO 2022-10-24 01:51:24,895  product details successfully fetched for 14th product
+INFO 2022-10-24 01:51:24,995  product details successfully fetched for 15th product
+INFO 2022-10-24 01:51:25,093  product details successfully fetched for 16th product
+INFO 2022-10-24 01:51:25,195  product details successfully fetched for 17th product
+INFO 2022-10-24 01:51:25,304  product details successfully fetched for 18th product
+INFO 2022-10-24 01:51:25,429  product details successfully fetched for 19th product
+INFO 2022-10-24 01:51:25,579  product details successfully fetched for 20th product
+INFO 2022-10-24 01:51:25,687  product details successfully fetched for 21th product
+INFO 2022-10-24 01:51:25,796  product details successfully fetched for 22th product
+INFO 2022-10-24 01:51:25,903  product details successfully fetched for 23th product
+INFO 2022-10-24 01:51:25,923 package: mysql.connector.plugins
+INFO 2022-10-24 01:51:25,924 plugin_name: caching_sha2_password
+INFO 2022-10-24 01:51:25,926 AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+INFO 2022-10-24 01:51:26,008 table creation successful
+INFO 2022-10-24 01:51:26,021 insertion of data successful
+INFO 2022-10-24 01:51:26,058 127.0.0.1 - - [24/Oct/2022 01:51:26] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO 2022-10-24 01:51:26,070 127.0.0.1 - - [24/Oct/2022 01:51:26] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO 2022-10-24 01:51:31,740 review details successfully fetched from 0th customer 
+INFO 2022-10-24 01:51:31,825 review details successfully fetched from 1th customer 
+INFO 2022-10-24 01:51:31,908 review details successfully fetched from 2th customer 
+INFO 2022-10-24 01:51:31,985 review details successfully fetched from 3th customer 
+INFO 2022-10-24 01:51:32,074 review details successfully fetched from 4th customer 
+INFO 2022-10-24 01:51:32,152 review details successfully fetched from 5th customer 
+INFO 2022-10-24 01:51:32,238 review details successfully fetched from 6th customer 
+INFO 2022-10-24 01:51:32,322 review details successfully fetched from 7th customer 
+INFO 2022-10-24 01:51:32,406 review details successfully fetched from 8th customer 
+INFO 2022-10-24 01:51:32,483 review details successfully fetched from 9th customer 
+INFO 2022-10-24 01:51:33,528 doata insertion successful into mongodb
+INFO 2022-10-24 01:51:33,594 127.0.0.1 - - [24/Oct/2022 01:51:33] "[37mPOST /comment HTTP/1.1[0m" 200 -
+INFO 2022-10-24 01:51:33,618 127.0.0.1 - - [24/Oct/2022 01:51:33] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO 2022-10-24 01:52:46,500 review details successfully fetched from 0th customer 
+INFO 2022-10-24 01:52:46,644 review details successfully fetched from 1th customer 
+INFO 2022-10-24 01:52:46,785 review details successfully fetched from 2th customer 
+INFO 2022-10-24 01:52:46,931 review details successfully fetched from 3th customer 
+INFO 2022-10-24 01:52:47,070 review details successfully fetched from 4th customer 
+INFO 2022-10-24 01:52:47,179 review details successfully fetched from 5th customer 
+INFO 2022-10-24 01:52:47,313 review details successfully fetched from 6th customer 
+INFO 2022-10-24 01:52:47,412 review details successfully fetched from 7th customer 
+INFO 2022-10-24 01:52:47,535 review details successfully fetched from 8th customer 
+INFO 2022-10-24 01:52:47,616 review details successfully fetched from 9th customer 
+INFO 2022-10-24 01:52:48,594 doata insertion successful into mongodb
+INFO 2022-10-24 01:52:48,651 127.0.0.1 - - [24/Oct/2022 01:52:48] "[37mPOST /comment HTTP/1.1[0m" 200 -
+INFO 2022-10-24 01:52:48,683 127.0.0.1 - - [24/Oct/2022 01:52:48] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO 2022-10-24 01:54:44,707 127.0.0.1 - - [24/Oct/2022 01:54:44] "[37mGET / HTTP/1.1[0m" 200 -
+INFO 2022-10-24 01:54:53,531  product details successfully fetched for 0th product
+INFO 2022-10-24 01:54:53,642  product details successfully fetched for 1th product
+INFO 2022-10-24 01:54:53,743  product details successfully fetched for 2th product
+INFO 2022-10-24 01:54:53,852  product details successfully fetched for 3th product
+INFO 2022-10-24 01:54:53,946  product details successfully fetched for 4th product
+INFO 2022-10-24 01:54:54,059  product details successfully fetched for 5th product
+INFO 2022-10-24 01:54:54,162  product details successfully fetched for 6th product
+INFO 2022-10-24 01:54:54,261  product details successfully fetched for 7th product
+INFO 2022-10-24 01:54:54,362  product details successfully fetched for 8th product
+INFO 2022-10-24 01:54:54,474  product details successfully fetched for 9th product
+INFO 2022-10-24 01:54:54,600  product details successfully fetched for 10th product
+INFO 2022-10-24 01:54:54,716  product details successfully fetched for 11th product
+INFO 2022-10-24 01:54:54,831  product details successfully fetched for 12th product
+INFO 2022-10-24 01:54:54,945  product details successfully fetched for 13th product
+INFO 2022-10-24 01:54:55,055  product details successfully fetched for 14th product
+INFO 2022-10-24 01:54:55,168  product details successfully fetched for 15th product
+INFO 2022-10-24 01:54:55,275  product details successfully fetched for 16th product
+INFO 2022-10-24 01:54:55,378  product details successfully fetched for 17th product
+INFO 2022-10-24 01:54:55,488  product details successfully fetched for 18th product
+INFO 2022-10-24 01:54:55,607  product details successfully fetched for 19th product
+INFO 2022-10-24 01:54:55,742  product details successfully fetched for 20th product
+INFO 2022-10-24 01:54:55,869  product details successfully fetched for 21th product
+INFO 2022-10-24 01:54:56,008  product details successfully fetched for 22th product
+INFO 2022-10-24 01:54:56,125  product details successfully fetched for 23th product
+INFO 2022-10-24 01:54:56,145 package: mysql.connector.plugins
+INFO 2022-10-24 01:54:56,146 plugin_name: caching_sha2_password
+INFO 2022-10-24 01:54:56,148 AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+INFO 2022-10-24 01:54:56,228 table creation successful
+INFO 2022-10-24 01:54:56,240 insertion of data successful
+INFO 2022-10-24 01:54:56,279 127.0.0.1 - - [24/Oct/2022 01:54:56] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO 2022-10-24 01:54:56,295 127.0.0.1 - - [24/Oct/2022 01:54:56] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO 2022-10-24 01:54:59,223 review details successfully fetched from 0th customer 
+INFO 2022-10-24 01:54:59,301 review details successfully fetched from 1th customer 
+INFO 2022-10-24 01:54:59,382 review details successfully fetched from 2th customer 
+INFO 2022-10-24 01:54:59,473 review details successfully fetched from 3th customer 
+INFO 2022-10-24 01:54:59,549 review details successfully fetched from 4th customer 
+INFO 2022-10-24 01:54:59,635 review details successfully fetched from 5th customer 
+INFO 2022-10-24 01:54:59,717 review details successfully fetched from 6th customer 
+INFO 2022-10-24 01:54:59,794 review details successfully fetched from 7th customer 
+INFO 2022-10-24 01:54:59,872 review details successfully fetched from 8th customer 
+INFO 2022-10-24 01:54:59,949 review details successfully fetched from 9th customer 
+INFO 2022-10-24 01:55:00,970 doata insertion successful into mongodb
+INFO 2022-10-24 01:55:01,078 127.0.0.1 - - [24/Oct/2022 01:55:01] "[37mPOST /comment HTTP/1.1[0m" 200 -
+INFO 2022-10-24 01:55:01,096 127.0.0.1 - - [24/Oct/2022 01:55:01] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO 2022-10-24 01:58:49,415  * Detected change in 'C:\\Users\\Bikash\\Downloads\\pythonpro\\pythonpro\\app.py', reloading
+INFO 2022-10-24 02:00:22,549 127.0.0.1 - - [24/Oct/2022 02:00:22] "[37mGET / HTTP/1.1[0m" 200 -
+INFO 2022-10-24 02:00:23,399  * Detected change in 'C:\\Users\\Bikash\\Downloads\\pythonpro\\pythonpro\\app.py', reloading
+INFO 2022-10-25 13:28:20,344 127.0.0.1 - - [25/Oct/2022 13:28:20] "[37mGET / HTTP/1.1[0m" 200 -
+INFO 2022-10-25 13:28:20,723 127.0.0.1 - - [25/Oct/2022 13:28:20] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO 2022-10-25 13:28:20,727 127.0.0.1 - - [25/Oct/2022 13:28:20] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO 2022-10-25 13:28:20,796 127.0.0.1 - - [25/Oct/2022 13:28:20] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO 2022-10-25 13:29:28,785 127.0.0.1 - - [25/Oct/2022 13:29:28] "[37mGET / HTTP/1.1[0m" 200 -
+INFO 2022-10-25 13:29:40,592 127.0.0.1 - - [25/Oct/2022 13:29:40] "[37mGET / HTTP/1.1[0m" 200 -
+INFO 2022-10-25 13:29:40,854 127.0.0.1 - - [25/Oct/2022 13:29:40] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO 2022-10-25 13:29:48,586  product details successfully fetched for 0th product
+INFO 2022-10-25 13:29:48,729  product details successfully fetched for 1th product
+INFO 2022-10-25 13:29:48,851  product details successfully fetched for 2th product
+INFO 2022-10-25 13:29:48,975  product details successfully fetched for 3th product
+INFO 2022-10-25 13:29:49,087  product details successfully fetched for 4th product
+INFO 2022-10-25 13:29:49,212  product details successfully fetched for 5th product
+INFO 2022-10-25 13:29:49,340  product details successfully fetched for 6th product
+INFO 2022-10-25 13:29:49,467  product details successfully fetched for 7th product
+INFO 2022-10-25 13:29:49,606  product details successfully fetched for 8th product
+INFO 2022-10-25 13:29:49,821  product details successfully fetched for 9th product
+INFO 2022-10-25 13:29:50,037  product details successfully fetched for 10th product
+INFO 2022-10-25 13:29:50,228  product details successfully fetched for 11th product
+INFO 2022-10-25 13:29:50,425  product details successfully fetched for 12th product
+INFO 2022-10-25 13:29:50,594  product details successfully fetched for 13th product
+INFO 2022-10-25 13:29:50,791  product details successfully fetched for 14th product
+INFO 2022-10-25 13:29:50,933  product details successfully fetched for 15th product
+INFO 2022-10-25 13:29:51,066  product details successfully fetched for 16th product
+INFO 2022-10-25 13:29:51,201  product details successfully fetched for 17th product
+INFO 2022-10-25 13:29:51,320  product details successfully fetched for 18th product
+INFO 2022-10-25 13:29:51,482  product details successfully fetched for 19th product
+INFO 2022-10-25 13:29:51,591  product details successfully fetched for 20th product
+INFO 2022-10-25 13:29:51,782  product details successfully fetched for 21th product
+INFO 2022-10-25 13:29:51,939  product details successfully fetched for 22th product
+INFO 2022-10-25 13:29:52,089  product details successfully fetched for 23th product
+INFO 2022-10-25 13:29:52,121 package: mysql.connector.plugins
+INFO 2022-10-25 13:29:52,121 plugin_name: caching_sha2_password
+INFO 2022-10-25 13:29:52,124 AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+INFO 2022-10-25 13:29:52,377 table creation successful
+INFO 2022-10-25 13:29:52,419 insertion of data successful
+INFO 2022-10-25 13:29:52,531 127.0.0.1 - - [25/Oct/2022 13:29:52] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO 2022-10-25 13:29:52,577 127.0.0.1 - - [25/Oct/2022 13:29:52] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO 2022-10-25 13:31:22,582 127.0.0.1 - - [25/Oct/2022 13:31:22] "[37mGET / HTTP/1.1[0m" 200 -
+INFO 2022-10-25 13:31:22,892 127.0.0.1 - - [25/Oct/2022 13:31:22] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO 2022-10-25 13:37:04,139  product details successfully fetched for 0th product
+INFO 2022-10-25 13:37:04,376  product details successfully fetched for 1th product
+INFO 2022-10-25 13:37:04,557  product details successfully fetched for 2th product
+INFO 2022-10-25 13:37:04,731  product details successfully fetched for 3th product
+INFO 2022-10-25 13:37:04,970  product details successfully fetched for 4th product
+INFO 2022-10-25 13:37:05,250  product details successfully fetched for 5th product
+INFO 2022-10-25 13:37:05,517  product details successfully fetched for 6th product
+INFO 2022-10-25 13:37:05,718  product details successfully fetched for 7th product
+INFO 2022-10-25 13:37:05,921  product details successfully fetched for 8th product
+INFO 2022-10-25 13:37:06,122  product details successfully fetched for 9th product
+INFO 2022-10-25 13:37:06,340  product details successfully fetched for 10th product
+INFO 2022-10-25 13:37:06,534  product details successfully fetched for 11th product
+INFO 2022-10-25 13:37:06,904  product details successfully fetched for 12th product
+INFO 2022-10-25 13:37:07,154  product details successfully fetched for 13th product
+INFO 2022-10-25 13:37:07,361  product details successfully fetched for 14th product
+INFO 2022-10-25 13:37:07,540  product details successfully fetched for 15th product
+INFO 2022-10-25 13:37:07,831  product details successfully fetched for 16th product
+INFO 2022-10-25 13:37:08,138  product details successfully fetched for 17th product
+INFO 2022-10-25 13:37:08,395  product details successfully fetched for 18th product
+INFO 2022-10-25 13:37:08,598  product details successfully fetched for 19th product
+INFO 2022-10-25 13:37:08,800  product details successfully fetched for 20th product
+INFO 2022-10-25 13:37:08,969  product details successfully fetched for 21th product
+ERROR 2022-10-25 13:37:09,244 Percentage_off not present for 22th product
+INFO 2022-10-25 13:37:09,247  product details successfully fetched for 22th product
+ERROR 2022-10-25 13:37:09,572 Percentage_off not present for 23th product
+INFO 2022-10-25 13:37:09,574  product details successfully fetched for 23th product
+INFO 2022-10-25 13:37:09,719 package: mysql.connector.plugins
+INFO 2022-10-25 13:37:09,721 plugin_name: caching_sha2_password
+INFO 2022-10-25 13:37:09,732 AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+INFO 2022-10-25 13:37:09,822 table creation successful
+INFO 2022-10-25 13:37:09,915 insertion of data successful
+INFO 2022-10-25 13:37:09,979 127.0.0.1 - - [25/Oct/2022 13:37:09] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO 2022-10-25 13:37:10,028 127.0.0.1 - - [25/Oct/2022 13:37:10] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO 2022-10-25 13:37:18,520 review details successfully fetched from 0th customer 
+INFO 2022-10-25 13:37:18,767 review details successfully fetched from 1th customer 
+INFO 2022-10-25 13:37:18,983 review details successfully fetched from 2th customer 
+INFO 2022-10-25 13:37:19,184 review details successfully fetched from 3th customer 
+INFO 2022-10-25 13:37:19,521 review details successfully fetched from 4th customer 
+INFO 2022-10-25 13:37:19,724 review details successfully fetched from 5th customer 
+INFO 2022-10-25 13:37:19,939 review details successfully fetched from 6th customer 
+INFO 2022-10-25 13:37:20,199 review details successfully fetched from 7th customer 
+INFO 2022-10-25 13:37:20,372 review details successfully fetched from 8th customer 
+INFO 2022-10-25 13:37:20,534 review details successfully fetched from 9th customer 
+INFO 2022-10-25 13:37:22,074 doata insertion successful into mongodb
+INFO 2022-10-25 13:37:22,215 127.0.0.1 - - [25/Oct/2022 13:37:22] "[37mPOST /comment HTTP/1.1[0m" 200 -
+INFO 2022-10-25 13:37:22,258 127.0.0.1 - - [25/Oct/2022 13:37:22] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO 2022-10-25 13:45:22,725  * Detected change in 'C:\\Users\\Bikash\\Downloads\\pythonpro\\pythonpro\\app.py', reloading
+INFO 2022-10-25 13:48:49,059 127.0.0.1 - - [25/Oct/2022 13:48:49] "[37mGET / HTTP/1.1[0m" 200 -
+INFO 2022-10-25 13:48:49,300 127.0.0.1 - - [25/Oct/2022 13:48:49] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO 2022-10-25 13:48:58,632 127.0.0.1 - - [25/Oct/2022 13:48:58] "[37mGET / HTTP/1.1[0m" 200 -
+INFO 2022-10-25 13:48:58,706 127.0.0.1 - - [25/Oct/2022 13:48:58] "[37mGET /static/css/style.css HTTP/1.1[0m" 200 -
+INFO 2022-10-25 13:48:58,733 127.0.0.1 - - [25/Oct/2022 13:48:58] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO 2022-10-25 13:48:59,457 127.0.0.1 - - [25/Oct/2022 13:48:59] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO 2022-10-25 13:51:20,546  product details successfully fetched for 0th product
+INFO 2022-10-25 13:51:20,833  product details successfully fetched for 1th product
+INFO 2022-10-25 13:51:21,066  product details successfully fetched for 2th product
+INFO 2022-10-25 13:51:21,260  product details successfully fetched for 3th product
+INFO 2022-10-25 13:51:21,433  product details successfully fetched for 4th product
+INFO 2022-10-25 13:51:21,705  product details successfully fetched for 5th product
+INFO 2022-10-25 13:51:21,936  product details successfully fetched for 6th product
+INFO 2022-10-25 13:51:22,126  product details successfully fetched for 7th product
+INFO 2022-10-25 13:51:22,466  product details successfully fetched for 8th product
+INFO 2022-10-25 13:51:22,752  product details successfully fetched for 9th product
+INFO 2022-10-25 13:51:22,990  product details successfully fetched for 10th product
+INFO 2022-10-25 13:51:23,180  product details successfully fetched for 11th product
+INFO 2022-10-25 13:51:23,352  product details successfully fetched for 12th product
+INFO 2022-10-25 13:51:23,564  product details successfully fetched for 13th product
+INFO 2022-10-25 13:51:23,777  product details successfully fetched for 14th product
+INFO 2022-10-25 13:51:24,058  product details successfully fetched for 15th product
+INFO 2022-10-25 13:51:24,284  product details successfully fetched for 16th product
+INFO 2022-10-25 13:51:24,456  product details successfully fetched for 17th product
+INFO 2022-10-25 13:51:24,715  product details successfully fetched for 18th product
+INFO 2022-10-25 13:51:25,060  product details successfully fetched for 19th product
+INFO 2022-10-25 13:51:25,252  product details successfully fetched for 20th product
+ERROR 2022-10-25 13:51:25,432 Percentage_off not present for 21th product
+INFO 2022-10-25 13:51:25,433  product details successfully fetched for 21th product
+ERROR 2022-10-25 13:51:25,608 Percentage_off not present for 22th product
+INFO 2022-10-25 13:51:25,609  product details successfully fetched for 22th product
+ERROR 2022-10-25 13:51:25,926 Percentage_off not present for 23th product
+INFO 2022-10-25 13:51:25,929  product details successfully fetched for 23th product
+INFO 2022-10-25 13:51:26,059 package: mysql.connector.plugins
+INFO 2022-10-25 13:51:26,062 plugin_name: caching_sha2_password
+INFO 2022-10-25 13:51:26,069 AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+INFO 2022-10-25 13:51:26,169 table creation successful
+INFO 2022-10-25 13:51:26,233 insertion of data successful
+INFO 2022-10-25 13:51:26,287 127.0.0.1 - - [25/Oct/2022 13:51:26] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO 2022-10-25 13:51:26,345 127.0.0.1 - - [25/Oct/2022 13:51:26] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO 2022-10-25 13:52:38,112 127.0.0.1 - - [25/Oct/2022 13:52:38] "[37mGET / HTTP/1.1[0m" 200 -
+INFO 2022-10-25 13:52:40,610 127.0.0.1 - - [25/Oct/2022 13:52:40] "[37mGET / HTTP/1.1[0m" 200 -
+INFO 2022-10-25 13:52:49,936 127.0.0.1 - - [25/Oct/2022 13:52:49] "[37mGET / HTTP/1.1[0m" 200 -
+INFO 2022-10-25 13:52:55,939  product details successfully fetched for 0th product
+INFO 2022-10-25 13:52:56,383  product details successfully fetched for 1th product
+INFO 2022-10-25 13:52:56,760  product details successfully fetched for 2th product
+INFO 2022-10-25 13:52:57,068  product details successfully fetched for 3th product
+INFO 2022-10-25 13:52:57,352  product details successfully fetched for 4th product
+INFO 2022-10-25 13:52:57,610  product details successfully fetched for 5th product
+INFO 2022-10-25 13:52:58,045  product details successfully fetched for 6th product
+INFO 2022-10-25 13:52:58,353  product details successfully fetched for 7th product
+INFO 2022-10-25 13:52:58,597  product details successfully fetched for 8th product
+INFO 2022-10-25 13:52:58,854  product details successfully fetched for 9th product
+INFO 2022-10-25 13:52:59,115  product details successfully fetched for 10th product
+INFO 2022-10-25 13:52:59,500  product details successfully fetched for 11th product
+INFO 2022-10-25 13:52:59,783  product details successfully fetched for 12th product
+INFO 2022-10-25 13:53:00,182  product details successfully fetched for 13th product
+INFO 2022-10-25 13:53:00,517  product details successfully fetched for 14th product
+INFO 2022-10-25 13:53:01,130  product details successfully fetched for 15th product
+INFO 2022-10-25 13:53:01,390  product details successfully fetched for 16th product
+INFO 2022-10-25 13:53:01,681  product details successfully fetched for 17th product
+INFO 2022-10-25 13:53:02,009  product details successfully fetched for 18th product
+INFO 2022-10-25 13:53:02,259  product details successfully fetched for 19th product
+INFO 2022-10-25 13:53:02,496  product details successfully fetched for 20th product
+INFO 2022-10-25 13:53:02,840  product details successfully fetched for 21th product
+INFO 2022-10-25 13:53:03,223  product details successfully fetched for 22th product
+INFO 2022-10-25 13:53:03,632  product details successfully fetched for 23th product
+INFO 2022-10-25 13:53:03,743 table creation successful
+INFO 2022-10-25 13:53:03,777 insertion of data successful
+INFO 2022-10-25 13:53:03,808 127.0.0.1 - - [25/Oct/2022 13:53:03] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO 2022-10-25 13:53:03,873 127.0.0.1 - - [25/Oct/2022 13:53:03] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO 2022-10-25 13:53:55,993 127.0.0.1 - - [25/Oct/2022 13:53:55] "[37mGET / HTTP/1.1[0m" 200 -
+INFO 2022-10-25 13:53:56,074 127.0.0.1 - - [25/Oct/2022 13:53:56] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO 2022-10-25 13:54:03,528  product details successfully fetched for 0th product
+INFO 2022-10-25 13:54:03,773  product details successfully fetched for 1th product
+INFO 2022-10-25 13:54:03,975  product details successfully fetched for 2th product
+INFO 2022-10-25 13:54:04,343  product details successfully fetched for 3th product
+INFO 2022-10-25 13:54:04,563  product details successfully fetched for 4th product
+INFO 2022-10-25 13:54:04,835  product details successfully fetched for 5th product
+INFO 2022-10-25 13:54:05,044  product details successfully fetched for 6th product
+INFO 2022-10-25 13:54:05,247  product details successfully fetched for 7th product
+INFO 2022-10-25 13:54:05,509  product details successfully fetched for 8th product
+INFO 2022-10-25 13:54:05,975  product details successfully fetched for 9th product
+INFO 2022-10-25 13:54:06,261  product details successfully fetched for 10th product
+INFO 2022-10-25 13:54:06,604  product details successfully fetched for 11th product
+INFO 2022-10-25 13:54:06,814  product details successfully fetched for 12th product
+INFO 2022-10-25 13:54:07,022  product details successfully fetched for 13th product
+INFO 2022-10-25 13:54:07,321  product details successfully fetched for 14th product
+INFO 2022-10-25 13:54:07,598  product details successfully fetched for 15th product
+INFO 2022-10-25 13:54:07,969  product details successfully fetched for 16th product
+INFO 2022-10-25 13:54:08,198  product details successfully fetched for 17th product
+INFO 2022-10-25 13:54:08,588  product details successfully fetched for 18th product
+INFO 2022-10-25 13:54:08,924  product details successfully fetched for 19th product
+INFO 2022-10-25 13:54:09,135  product details successfully fetched for 20th product
+INFO 2022-10-25 13:54:09,338  product details successfully fetched for 21th product
+INFO 2022-10-25 13:54:09,737  product details successfully fetched for 22th product
+INFO 2022-10-25 13:54:10,019  product details successfully fetched for 23th product
+INFO 2022-10-25 13:54:10,066 package: mysql.connector.plugins
+INFO 2022-10-25 13:54:10,067 plugin_name: caching_sha2_password
+INFO 2022-10-25 13:54:10,073 AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+INFO 2022-10-25 13:54:10,118 table creation successful
+INFO 2022-10-25 13:54:10,135 insertion of data successful
+INFO 2022-10-25 13:54:10,191 127.0.0.1 - - [25/Oct/2022 13:54:10] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO 2022-10-25 13:54:10,222 127.0.0.1 - - [25/Oct/2022 13:54:10] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO 2022-10-25 14:46:39,422 127.0.0.1 - - [25/Oct/2022 14:46:39] "[37mGET / HTTP/1.1[0m" 200 -
+INFO 2022-10-25 14:46:39,695 127.0.0.1 - - [25/Oct/2022 14:46:39] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO 2022-10-25 14:46:59,287 127.0.0.1 - - [25/Oct/2022 14:46:59] "[37mGET / HTTP/1.1[0m" 200 -
+INFO 2022-10-25 14:46:59,514 127.0.0.1 - - [25/Oct/2022 14:46:59] "[37mGET /static/css/style.css HTTP/1.1[0m" 200 -
+INFO 2022-10-25 14:46:59,538 127.0.0.1 - - [25/Oct/2022 14:46:59] "[37mGET /static/css/main.css HTTP/1.1[0m" 200 -
+INFO 2022-10-25 14:46:59,580 127.0.0.1 - - [25/Oct/2022 14:46:59] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO 2022-10-25 14:47:06,175  product details successfully fetched for 0th product
+INFO 2022-10-25 14:47:06,315  product details successfully fetched for 1th product
+INFO 2022-10-25 14:47:06,480  product details successfully fetched for 2th product
+INFO 2022-10-25 14:47:06,672  product details successfully fetched for 3th product
+INFO 2022-10-25 14:47:06,825  product details successfully fetched for 4th product
+INFO 2022-10-25 14:47:06,968  product details successfully fetched for 5th product
+INFO 2022-10-25 14:47:07,097  product details successfully fetched for 6th product
+INFO 2022-10-25 14:47:07,226  product details successfully fetched for 7th product
+INFO 2022-10-25 14:47:07,345  product details successfully fetched for 8th product
+INFO 2022-10-25 14:47:07,458  product details successfully fetched for 9th product
+INFO 2022-10-25 14:47:07,574  product details successfully fetched for 10th product
+INFO 2022-10-25 14:47:07,724  product details successfully fetched for 11th product
+INFO 2022-10-25 14:47:07,886  product details successfully fetched for 12th product
+INFO 2022-10-25 14:47:08,009  product details successfully fetched for 13th product
+INFO 2022-10-25 14:47:08,150  product details successfully fetched for 14th product
+INFO 2022-10-25 14:47:08,294  product details successfully fetched for 15th product
+INFO 2022-10-25 14:47:08,412  product details successfully fetched for 16th product
+INFO 2022-10-25 14:47:08,534  product details successfully fetched for 17th product
+INFO 2022-10-25 14:47:08,687  product details successfully fetched for 18th product
+INFO 2022-10-25 14:47:08,818  product details successfully fetched for 19th product
+INFO 2022-10-25 14:47:08,966  product details successfully fetched for 20th product
+INFO 2022-10-25 14:47:09,125  product details successfully fetched for 21th product
+INFO 2022-10-25 14:47:09,271  product details successfully fetched for 22th product
+INFO 2022-10-25 14:47:09,416  product details successfully fetched for 23th product
+INFO 2022-10-25 14:47:09,447 package: mysql.connector.plugins
+INFO 2022-10-25 14:47:09,448 plugin_name: caching_sha2_password
+INFO 2022-10-25 14:47:09,452 AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+INFO 2022-10-25 14:47:09,516 table creation successful
+INFO 2022-10-25 14:47:09,534 insertion of data successful
+INFO 2022-10-25 14:47:09,730 127.0.0.1 - - [25/Oct/2022 14:47:09] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO 2022-10-25 14:47:09,750 127.0.0.1 - - [25/Oct/2022 14:47:09] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO 2022-10-25 17:40:33,176 127.0.0.1 - - [25/Oct/2022 17:40:33] "[37mGET / HTTP/1.1[0m" 200 -
+INFO 2022-10-25 17:40:44,442  product details successfully fetched for 0th product
+INFO 2022-10-25 17:40:44,563  product details successfully fetched for 1th product
+INFO 2022-10-25 17:40:44,675  product details successfully fetched for 2th product
+INFO 2022-10-25 17:40:44,783  product details successfully fetched for 3th product
+INFO 2022-10-25 17:40:44,895  product details successfully fetched for 4th product
+INFO 2022-10-25 17:40:45,013  product details successfully fetched for 5th product
+INFO 2022-10-25 17:40:45,126  product details successfully fetched for 6th product
+INFO 2022-10-25 17:40:45,234  product details successfully fetched for 7th product
+INFO 2022-10-25 17:40:45,344  product details successfully fetched for 8th product
+INFO 2022-10-25 17:40:45,455  product details successfully fetched for 9th product
+INFO 2022-10-25 17:40:45,568  product details successfully fetched for 10th product
+INFO 2022-10-25 17:40:45,683  product details successfully fetched for 11th product
+INFO 2022-10-25 17:40:45,793  product details successfully fetched for 12th product
+INFO 2022-10-25 17:40:45,905  product details successfully fetched for 13th product
+INFO 2022-10-25 17:40:46,020  product details successfully fetched for 14th product
+INFO 2022-10-25 17:40:46,134  product details successfully fetched for 15th product
+INFO 2022-10-25 17:40:46,243  product details successfully fetched for 16th product
+INFO 2022-10-25 17:40:46,351  product details successfully fetched for 17th product
+INFO 2022-10-25 17:40:46,462  product details successfully fetched for 18th product
+INFO 2022-10-25 17:40:46,573  product details successfully fetched for 19th product
+INFO 2022-10-25 17:40:46,676  product details successfully fetched for 20th product
+INFO 2022-10-25 17:40:46,786  product details successfully fetched for 21th product
+INFO 2022-10-25 17:40:46,894  product details successfully fetched for 22th product
+INFO 2022-10-25 17:40:47,000  product details successfully fetched for 23th product
+INFO 2022-10-25 17:40:47,222 table creation successful
+INFO 2022-10-25 17:40:47,263 insertion of data successful
+INFO 2022-10-25 17:40:47,317 127.0.0.1 - - [25/Oct/2022 17:40:47] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO 2022-10-25 17:40:47,383 127.0.0.1 - - [25/Oct/2022 17:40:47] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO 2022-10-25 17:41:29,211 127.0.0.1 - - [25/Oct/2022 17:41:29] "[37mGET / HTTP/1.1[0m" 200 -
+INFO 2022-10-25 17:41:29,345 127.0.0.1 - - [25/Oct/2022 17:41:29] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO 2022-10-25 17:41:42,307  product details successfully fetched for 0th product
+INFO 2022-10-25 17:41:42,421  product details successfully fetched for 1th product
+INFO 2022-10-25 17:41:42,527  product details successfully fetched for 2th product
+INFO 2022-10-25 17:41:42,640  product details successfully fetched for 3th product
+INFO 2022-10-25 17:41:42,746  product details successfully fetched for 4th product
+INFO 2022-10-25 17:41:42,848  product details successfully fetched for 5th product
+INFO 2022-10-25 17:41:42,956  product details successfully fetched for 6th product
+INFO 2022-10-25 17:41:43,074  product details successfully fetched for 7th product
+INFO 2022-10-25 17:41:43,188  product details successfully fetched for 8th product
+INFO 2022-10-25 17:41:43,300  product details successfully fetched for 9th product
+INFO 2022-10-25 17:41:43,426  product details successfully fetched for 10th product
+INFO 2022-10-25 17:41:43,542  product details successfully fetched for 11th product
+INFO 2022-10-25 17:41:43,665  product details successfully fetched for 12th product
+INFO 2022-10-25 17:41:43,792  product details successfully fetched for 13th product
+INFO 2022-10-25 17:41:43,910  product details successfully fetched for 14th product
+INFO 2022-10-25 17:41:44,026  product details successfully fetched for 15th product
+INFO 2022-10-25 17:41:44,142  product details successfully fetched for 16th product
+INFO 2022-10-25 17:41:44,252  product details successfully fetched for 17th product
+INFO 2022-10-25 17:41:44,363  product details successfully fetched for 18th product
+INFO 2022-10-25 17:41:44,481  product details successfully fetched for 19th product
+INFO 2022-10-25 17:41:44,585  product details successfully fetched for 20th product
+INFO 2022-10-25 17:41:44,696  product details successfully fetched for 21th product
+INFO 2022-10-25 17:41:44,817  product details successfully fetched for 22th product
+INFO 2022-10-25 17:41:44,925  product details successfully fetched for 23th product
+INFO 2022-10-25 17:41:44,944 package: mysql.connector.plugins
+INFO 2022-10-25 17:41:44,945 plugin_name: caching_sha2_password
+INFO 2022-10-25 17:41:45,015 AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+INFO 2022-10-25 17:41:45,074 table creation successful
+INFO 2022-10-25 17:41:45,148 insertion of data successful
+INFO 2022-10-25 17:41:45,215 127.0.0.1 - - [25/Oct/2022 17:41:45] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO 2022-10-25 17:41:45,240 127.0.0.1 - - [25/Oct/2022 17:41:45] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO 2022-10-25 17:51:09,489 127.0.0.1 - - [25/Oct/2022 17:51:09] "[37mGET / HTTP/1.1[0m" 200 -
+INFO 2022-10-25 17:51:13,777  product details successfully fetched for 0th product
+INFO 2022-10-25 17:51:13,900  product details successfully fetched for 1th product
+INFO 2022-10-25 17:51:14,010  product details successfully fetched for 2th product
+INFO 2022-10-25 17:51:14,109  product details successfully fetched for 3th product
+INFO 2022-10-25 17:51:14,216  product details successfully fetched for 4th product
+INFO 2022-10-25 17:51:14,337  product details successfully fetched for 5th product
+INFO 2022-10-25 17:51:14,442  product details successfully fetched for 6th product
+INFO 2022-10-25 17:51:14,554  product details successfully fetched for 7th product
+INFO 2022-10-25 17:51:14,673  product details successfully fetched for 8th product
+INFO 2022-10-25 17:51:14,785  product details successfully fetched for 9th product
+INFO 2022-10-25 17:51:14,892  product details successfully fetched for 10th product
+INFO 2022-10-25 17:51:15,000  product details successfully fetched for 11th product
+INFO 2022-10-25 17:51:15,150  product details successfully fetched for 12th product
+INFO 2022-10-25 17:51:15,282  product details successfully fetched for 13th product
+INFO 2022-10-25 17:51:15,388  product details successfully fetched for 14th product
+INFO 2022-10-25 17:51:15,497  product details successfully fetched for 15th product
+INFO 2022-10-25 17:51:15,608  product details successfully fetched for 16th product
+INFO 2022-10-25 17:51:15,710  product details successfully fetched for 17th product
+INFO 2022-10-25 17:51:15,828  product details successfully fetched for 18th product
+INFO 2022-10-25 17:51:15,939  product details successfully fetched for 19th product
+INFO 2022-10-25 17:51:16,044  product details successfully fetched for 20th product
+INFO 2022-10-25 17:51:16,160  product details successfully fetched for 21th product
+INFO 2022-10-25 17:51:16,266  product details successfully fetched for 22th product
+INFO 2022-10-25 17:51:16,390  product details successfully fetched for 23th product
+INFO 2022-10-25 17:51:16,522 table creation successful
+INFO 2022-10-25 17:51:16,559 insertion of data successful
+INFO 2022-10-25 17:51:16,609 127.0.0.1 - - [25/Oct/2022 17:51:16] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO 2022-10-25 17:51:16,649 127.0.0.1 - - [25/Oct/2022 17:51:16] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO 2022-10-25 17:51:29,882 127.0.0.1 - - [25/Oct/2022 17:51:29] "[37mGET / HTTP/1.1[0m" 200 -
+INFO 2022-10-25 17:51:30,347 127.0.0.1 - - [25/Oct/2022 17:51:30] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO 2022-10-25 17:51:38,904  product details successfully fetched for 0th product
+INFO 2022-10-25 17:51:39,034  product details successfully fetched for 1th product
+INFO 2022-10-25 17:51:39,149  product details successfully fetched for 2th product
+INFO 2022-10-25 17:51:39,254  product details successfully fetched for 3th product
+INFO 2022-10-25 17:51:39,361  product details successfully fetched for 4th product
+INFO 2022-10-25 17:51:39,468  product details successfully fetched for 5th product
+INFO 2022-10-25 17:51:39,575  product details successfully fetched for 6th product
+INFO 2022-10-25 17:51:39,693  product details successfully fetched for 7th product
+INFO 2022-10-25 17:51:39,800  product details successfully fetched for 8th product
+INFO 2022-10-25 17:51:39,922  product details successfully fetched for 9th product
+INFO 2022-10-25 17:51:40,036  product details successfully fetched for 10th product
+INFO 2022-10-25 17:51:40,145  product details successfully fetched for 11th product
+INFO 2022-10-25 17:51:40,254  product details successfully fetched for 12th product
+INFO 2022-10-25 17:51:40,363  product details successfully fetched for 13th product
+INFO 2022-10-25 17:51:40,485  product details successfully fetched for 14th product
+INFO 2022-10-25 17:51:40,610  product details successfully fetched for 15th product
+INFO 2022-10-25 17:51:40,731  product details successfully fetched for 16th product
+INFO 2022-10-25 17:51:40,832  product details successfully fetched for 17th product
+INFO 2022-10-25 17:51:40,946  product details successfully fetched for 18th product
+INFO 2022-10-25 17:51:41,061  product details successfully fetched for 19th product
+INFO 2022-10-25 17:51:41,180  product details successfully fetched for 20th product
+INFO 2022-10-25 17:51:41,309  product details successfully fetched for 21th product
+INFO 2022-10-25 17:51:41,423  product details successfully fetched for 22th product
+INFO 2022-10-25 17:51:41,531  product details successfully fetched for 23th product
+INFO 2022-10-25 17:51:41,596 table creation successful
+INFO 2022-10-25 17:51:41,607 insertion of data successful
+INFO 2022-10-25 17:51:41,635 127.0.0.1 - - [25/Oct/2022 17:51:41] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO 2022-10-25 17:51:41,656 127.0.0.1 - - [25/Oct/2022 17:51:41] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO 2022-10-25 17:52:12,863 127.0.0.1 - - [25/Oct/2022 17:52:12] "[37mGET / HTTP/1.1[0m" 200 -
+INFO 2022-10-25 17:52:13,280 127.0.0.1 - - [25/Oct/2022 17:52:13] "[37mGET /static/css/style.css HTTP/1.1[0m" 200 -
+INFO 2022-10-25 17:52:13,285 127.0.0.1 - - [25/Oct/2022 17:52:13] "[37mGET /static/css/main.css HTTP/1.1[0m" 200 -
+INFO 2022-10-25 17:52:13,340 127.0.0.1 - - [25/Oct/2022 17:52:13] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO 2022-10-25 17:52:18,610  product details successfully fetched for 0th product
+INFO 2022-10-25 17:52:18,861  product details successfully fetched for 1th product
+INFO 2022-10-25 17:52:18,994  product details successfully fetched for 2th product
+INFO 2022-10-25 17:52:19,105  product details successfully fetched for 3th product
+INFO 2022-10-25 17:52:19,234  product details successfully fetched for 4th product
+INFO 2022-10-25 17:52:19,360  product details successfully fetched for 5th product
+INFO 2022-10-25 17:52:19,521  product details successfully fetched for 6th product
+INFO 2022-10-25 17:52:19,686  product details successfully fetched for 7th product
+INFO 2022-10-25 17:52:19,846  product details successfully fetched for 8th product
+INFO 2022-10-25 17:52:19,971  product details successfully fetched for 9th product
+INFO 2022-10-25 17:52:20,118  product details successfully fetched for 10th product
+INFO 2022-10-25 17:52:20,254  product details successfully fetched for 11th product
+INFO 2022-10-25 17:52:20,382  product details successfully fetched for 12th product
+INFO 2022-10-25 17:52:20,516  product details successfully fetched for 13th product
+INFO 2022-10-25 17:52:20,659  product details successfully fetched for 14th product
+INFO 2022-10-25 17:52:20,773  product details successfully fetched for 15th product
+INFO 2022-10-25 17:52:20,872  product details successfully fetched for 16th product
+INFO 2022-10-25 17:52:20,990  product details successfully fetched for 17th product
+INFO 2022-10-25 17:52:21,112  product details successfully fetched for 18th product
+INFO 2022-10-25 17:52:21,217  product details successfully fetched for 19th product
+INFO 2022-10-25 17:52:21,350  product details successfully fetched for 20th product
+INFO 2022-10-25 17:52:21,481  product details successfully fetched for 21th product
+INFO 2022-10-25 17:52:21,602  product details successfully fetched for 22th product
+INFO 2022-10-25 17:52:21,722  product details successfully fetched for 23th product
+INFO 2022-10-25 17:52:21,740 package: mysql.connector.plugins
+INFO 2022-10-25 17:52:21,741 plugin_name: caching_sha2_password
+INFO 2022-10-25 17:52:21,743 AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+INFO 2022-10-25 17:52:22,005 table creation successful
+INFO 2022-10-25 17:52:22,041 insertion of data successful
+INFO 2022-10-25 17:52:22,085 127.0.0.1 - - [25/Oct/2022 17:52:22] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO 2022-10-25 17:52:22,113 127.0.0.1 - - [25/Oct/2022 17:52:22] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO 2022-10-25 17:53:48,597 127.0.0.1 - - [25/Oct/2022 17:53:48] "[37mGET / HTTP/1.1[0m" 200 -
+INFO 2022-10-25 17:53:48,847 127.0.0.1 - - [25/Oct/2022 17:53:48] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO 2022-10-25 17:54:01,482  product details successfully fetched for 0th product
+INFO 2022-10-25 17:54:01,599  product details successfully fetched for 1th product
+INFO 2022-10-25 17:54:01,716  product details successfully fetched for 2th product
+INFO 2022-10-25 17:54:01,826  product details successfully fetched for 3th product
+INFO 2022-10-25 17:54:01,970  product details successfully fetched for 4th product
+INFO 2022-10-25 17:54:02,084  product details successfully fetched for 5th product
+INFO 2022-10-25 17:54:02,191  product details successfully fetched for 6th product
+INFO 2022-10-25 17:54:02,305  product details successfully fetched for 7th product
+INFO 2022-10-25 17:54:02,412  product details successfully fetched for 8th product
+INFO 2022-10-25 17:54:02,538  product details successfully fetched for 9th product
+INFO 2022-10-25 17:54:02,678  product details successfully fetched for 10th product
+INFO 2022-10-25 17:54:02,787  product details successfully fetched for 11th product
+INFO 2022-10-25 17:54:02,896  product details successfully fetched for 12th product
+INFO 2022-10-25 17:54:03,004  product details successfully fetched for 13th product
+INFO 2022-10-25 17:54:03,118  product details successfully fetched for 14th product
+INFO 2022-10-25 17:54:03,228  product details successfully fetched for 15th product
+INFO 2022-10-25 17:54:03,341  product details successfully fetched for 16th product
+INFO 2022-10-25 17:54:03,448  product details successfully fetched for 17th product
+INFO 2022-10-25 17:54:03,558  product details successfully fetched for 18th product
+INFO 2022-10-25 17:54:03,662  product details successfully fetched for 19th product
+INFO 2022-10-25 17:54:03,765  product details successfully fetched for 20th product
+INFO 2022-10-25 17:54:03,879  product details successfully fetched for 21th product
+INFO 2022-10-25 17:54:03,987  product details successfully fetched for 22th product
+ERROR 2022-10-25 17:54:04,100 Percentage_off not present for 23th product
+INFO 2022-10-25 17:54:04,101  product details successfully fetched for 23th product
+INFO 2022-10-25 17:54:04,119 package: mysql.connector.plugins
+INFO 2022-10-25 17:54:04,119 plugin_name: caching_sha2_password
+INFO 2022-10-25 17:54:04,121 AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+INFO 2022-10-25 17:54:04,211 table creation successful
+INFO 2022-10-25 17:54:04,221 insertion of data successful
+INFO 2022-10-25 17:54:04,268 127.0.0.1 - - [25/Oct/2022 17:54:04] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO 2022-10-25 17:54:04,286 127.0.0.1 - - [25/Oct/2022 17:54:04] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO 2022-10-25 17:54:39,724 127.0.0.1 - - [25/Oct/2022 17:54:39] "[37mGET / HTTP/1.1[0m" 200 -
+INFO 2022-10-25 17:54:39,838 127.0.0.1 - - [25/Oct/2022 17:54:39] "[37mGET /static/css/main.css HTTP/1.1[0m" 200 -
+INFO 2022-10-25 17:54:39,847 127.0.0.1 - - [25/Oct/2022 17:54:39] "[37mGET /static/css/style.css HTTP/1.1[0m" 200 -
+INFO 2022-10-25 17:54:40,042 127.0.0.1 - - [25/Oct/2022 17:54:40] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO 2022-10-25 17:54:44,880  product details successfully fetched for 0th product
+INFO 2022-10-25 17:54:44,982  product details successfully fetched for 1th product
+INFO 2022-10-25 17:54:45,087  product details successfully fetched for 2th product
+INFO 2022-10-25 17:54:45,194  product details successfully fetched for 3th product
+INFO 2022-10-25 17:54:45,309  product details successfully fetched for 4th product
+INFO 2022-10-25 17:54:45,465  product details successfully fetched for 5th product
+INFO 2022-10-25 17:54:45,620  product details successfully fetched for 6th product
+INFO 2022-10-25 17:54:45,722  product details successfully fetched for 7th product
+INFO 2022-10-25 17:54:45,832  product details successfully fetched for 8th product
+INFO 2022-10-25 17:54:45,937  product details successfully fetched for 9th product
+INFO 2022-10-25 17:54:46,044  product details successfully fetched for 10th product
+INFO 2022-10-25 17:54:46,154  product details successfully fetched for 11th product
+INFO 2022-10-25 17:54:46,268  product details successfully fetched for 12th product
+INFO 2022-10-25 17:54:46,448  product details successfully fetched for 13th product
+INFO 2022-10-25 17:54:46,650  product details successfully fetched for 14th product
+INFO 2022-10-25 17:54:46,812  product details successfully fetched for 15th product
+INFO 2022-10-25 17:54:46,957  product details successfully fetched for 16th product
+INFO 2022-10-25 17:54:47,119  product details successfully fetched for 17th product
+INFO 2022-10-25 17:54:47,225  product details successfully fetched for 18th product
+INFO 2022-10-25 17:54:47,336  product details successfully fetched for 19th product
+INFO 2022-10-25 17:54:47,445  product details successfully fetched for 20th product
+INFO 2022-10-25 17:54:47,554  product details successfully fetched for 21th product
+INFO 2022-10-25 17:54:47,681  product details successfully fetched for 22th product
+INFO 2022-10-25 17:54:47,856  product details successfully fetched for 23th product
+INFO 2022-10-25 17:54:47,949 table creation successful
+INFO 2022-10-25 17:54:47,960 insertion of data successful
+INFO 2022-10-25 17:54:48,011 127.0.0.1 - - [25/Oct/2022 17:54:48] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO 2022-10-25 17:54:48,034 127.0.0.1 - - [25/Oct/2022 17:54:48] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO 2022-10-25 17:59:10,455 127.0.0.1 - - [25/Oct/2022 17:59:10] "[37mGET / HTTP/1.1[0m" 200 -
+INFO 2022-10-25 17:59:10,700 127.0.0.1 - - [25/Oct/2022 17:59:10] "[37mGET /static/css/main.css HTTP/1.1[0m" 200 -
+INFO 2022-10-25 17:59:10,722 127.0.0.1 - - [25/Oct/2022 17:59:10] "[37mGET /static/css/style.css HTTP/1.1[0m" 200 -
+INFO 2022-10-25 17:59:10,757 127.0.0.1 - - [25/Oct/2022 17:59:10] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO 2022-10-25 17:59:18,267  product details successfully fetched for 0th product
+INFO 2022-10-25 17:59:18,409  product details successfully fetched for 1th product
+INFO 2022-10-25 17:59:18,527  product details successfully fetched for 2th product
+INFO 2022-10-25 17:59:18,649  product details successfully fetched for 3th product
+INFO 2022-10-25 17:59:18,765  product details successfully fetched for 4th product
+INFO 2022-10-25 17:59:18,890  product details successfully fetched for 5th product
+INFO 2022-10-25 17:59:19,008  product details successfully fetched for 6th product
+INFO 2022-10-25 17:59:19,124  product details successfully fetched for 7th product
+INFO 2022-10-25 17:59:19,235  product details successfully fetched for 8th product
+INFO 2022-10-25 17:59:19,354  product details successfully fetched for 9th product
+INFO 2022-10-25 17:59:19,483  product details successfully fetched for 10th product
+INFO 2022-10-25 17:59:19,607  product details successfully fetched for 11th product
+INFO 2022-10-25 17:59:19,718  product details successfully fetched for 12th product
+INFO 2022-10-25 17:59:19,834  product details successfully fetched for 13th product
+INFO 2022-10-25 17:59:19,958  product details successfully fetched for 14th product
+INFO 2022-10-25 17:59:20,073  product details successfully fetched for 15th product
+INFO 2022-10-25 17:59:20,185  product details successfully fetched for 16th product
+INFO 2022-10-25 17:59:20,329  product details successfully fetched for 17th product
+INFO 2022-10-25 17:59:20,454  product details successfully fetched for 18th product
+INFO 2022-10-25 17:59:20,568  product details successfully fetched for 19th product
+INFO 2022-10-25 17:59:20,686  product details successfully fetched for 20th product
+INFO 2022-10-25 17:59:20,810  product details successfully fetched for 21th product
+INFO 2022-10-25 17:59:20,935  product details successfully fetched for 22th product
+INFO 2022-10-25 17:59:21,048  product details successfully fetched for 23th product
+INFO 2022-10-25 17:59:21,070 package: mysql.connector.plugins
+INFO 2022-10-25 17:59:21,071 plugin_name: caching_sha2_password
+INFO 2022-10-25 17:59:21,073 AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+INFO 2022-10-25 17:59:21,170 table creation successful
+INFO 2022-10-25 17:59:21,184 insertion of data successful
+INFO 2022-10-25 17:59:21,251 127.0.0.1 - - [25/Oct/2022 17:59:21] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO 2022-10-25 17:59:21,280 127.0.0.1 - - [25/Oct/2022 17:59:21] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO 2022-10-25 17:59:32,094 review details successfully fetched from 0th customer 
+INFO 2022-10-25 17:59:32,190 review details successfully fetched from 1th customer 
+INFO 2022-10-25 17:59:32,277 review details successfully fetched from 2th customer 
+INFO 2022-10-25 17:59:32,365 review details successfully fetched from 3th customer 
+INFO 2022-10-25 17:59:32,452 review details successfully fetched from 4th customer 
+INFO 2022-10-25 17:59:32,538 review details successfully fetched from 5th customer 
+INFO 2022-10-25 17:59:32,621 review details successfully fetched from 6th customer 
+INFO 2022-10-25 17:59:32,708 review details successfully fetched from 7th customer 
+INFO 2022-10-25 17:59:32,808 review details successfully fetched from 8th customer 
+INFO 2022-10-25 17:59:32,925 review details successfully fetched from 9th customer 
+INFO 2022-10-25 17:59:34,224 doata insertion successful into mongodb
+INFO 2022-10-25 17:59:34,356 127.0.0.1 - - [25/Oct/2022 17:59:34] "[37mPOST /comment HTTP/1.1[0m" 200 -
+INFO 2022-10-25 17:59:34,369 127.0.0.1 - - [25/Oct/2022 17:59:34] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO 2022-10-25 17:59:50,374 review details successfully fetched from 0th customer 
+INFO 2022-10-25 17:59:50,457 review details successfully fetched from 1th customer 
+INFO 2022-10-25 17:59:50,545 review details successfully fetched from 2th customer 
+INFO 2022-10-25 17:59:50,625 review details successfully fetched from 3th customer 
+INFO 2022-10-25 17:59:50,705 review details successfully fetched from 4th customer 
+INFO 2022-10-25 17:59:50,795 review details successfully fetched from 5th customer 
+INFO 2022-10-25 17:59:50,878 review details successfully fetched from 6th customer 
+INFO 2022-10-25 17:59:50,965 review details successfully fetched from 7th customer 
+INFO 2022-10-25 17:59:51,051 review details successfully fetched from 8th customer 
+INFO 2022-10-25 17:59:51,138 review details successfully fetched from 9th customer 
+INFO 2022-10-25 17:59:51,920 doata insertion successful into mongodb
+INFO 2022-10-25 17:59:52,030 127.0.0.1 - - [25/Oct/2022 17:59:52] "[37mPOST /comment HTTP/1.1[0m" 200 -
+INFO 2022-10-25 17:59:52,068 127.0.0.1 - - [25/Oct/2022 17:59:52] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO 2022-10-25 18:26:53,836  * Detected change in 'C:\\Users\\Bikash\\Downloads\\pythonpro\\pythonpro\\app.py', reloading
+INFO 2022-10-25 18:44:20,722 127.0.0.1 - - [25/Oct/2022 18:44:20] "[37mGET / HTTP/1.1[0m" 200 -
+INFO 2022-10-25 18:44:20,987 127.0.0.1 - - [25/Oct/2022 18:44:20] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO 2022-10-25 18:44:27,563  product details successfully fetched for 0th product
+INFO 2022-10-25 18:44:27,898  product details successfully fetched for 1th product
+INFO 2022-10-25 18:44:28,230  product details successfully fetched for 2th product
+INFO 2022-10-25 18:44:28,579  product details successfully fetched for 3th product
+INFO 2022-10-25 18:44:28,843  product details successfully fetched for 4th product
+INFO 2022-10-25 18:44:29,150  product details successfully fetched for 5th product
+INFO 2022-10-25 18:44:29,516  product details successfully fetched for 6th product
+INFO 2022-10-25 18:44:30,014  product details successfully fetched for 7th product
+INFO 2022-10-25 18:44:30,296  product details successfully fetched for 8th product
+INFO 2022-10-25 18:44:30,651  product details successfully fetched for 9th product
+INFO 2022-10-25 18:44:30,926  product details successfully fetched for 10th product
+INFO 2022-10-25 18:44:31,143  product details successfully fetched for 11th product
+INFO 2022-10-25 18:44:31,523  product details successfully fetched for 12th product
+INFO 2022-10-25 18:44:31,827  product details successfully fetched for 13th product
+INFO 2022-10-25 18:44:32,095  product details successfully fetched for 14th product
+INFO 2022-10-25 18:44:32,406  product details successfully fetched for 15th product
+INFO 2022-10-25 18:44:32,666  product details successfully fetched for 16th product
+INFO 2022-10-25 18:44:32,975  product details successfully fetched for 17th product
+INFO 2022-10-25 18:44:33,309  product details successfully fetched for 18th product
+INFO 2022-10-25 18:44:33,561  product details successfully fetched for 19th product
+INFO 2022-10-25 18:44:33,947  product details successfully fetched for 20th product
+INFO 2022-10-25 18:44:34,190  product details successfully fetched for 21th product
+INFO 2022-10-25 18:44:34,416  product details successfully fetched for 22th product
+INFO 2022-10-25 18:44:34,730  product details successfully fetched for 23th product
+INFO 2022-10-25 18:44:34,766 package: mysql.connector.plugins
+INFO 2022-10-25 18:44:34,767 plugin_name: caching_sha2_password
+INFO 2022-10-25 18:44:34,798 AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+INFO 2022-10-25 18:44:34,846 table creation successful
+INFO 2022-10-25 18:44:34,862 insertion of data successful
+INFO 2022-10-25 18:44:34,903 127.0.0.1 - - [25/Oct/2022 18:44:34] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO 2022-10-25 18:44:34,925 127.0.0.1 - - [25/Oct/2022 18:44:34] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO 2022-10-25 18:44:44,085 review details successfully fetched from 0th customer 
+INFO 2022-10-25 18:44:44,325 review details successfully fetched from 1th customer 
+INFO 2022-10-25 18:44:44,496 review details successfully fetched from 2th customer 
+INFO 2022-10-25 18:44:44,652 review details successfully fetched from 3th customer 
+INFO 2022-10-25 18:44:44,849 review details successfully fetched from 4th customer 
+INFO 2022-10-25 18:44:45,141 review details successfully fetched from 5th customer 
+INFO 2022-10-25 18:44:45,413 review details successfully fetched from 6th customer 
+INFO 2022-10-25 18:44:45,665 review details successfully fetched from 7th customer 
+INFO 2022-10-25 18:44:45,830 review details successfully fetched from 8th customer 
+INFO 2022-10-25 18:44:45,985 review details successfully fetched from 9th customer 
+ERROR 2022-10-25 18:44:46,127 'Collection' object is not callable. If you meant to call the 'getCollection' method on a 'Database' object it is failing because no such method exists.: failed to load data into mongodb
+ERROR 2022-10-25 18:44:46,161 'NoneType' object is not iterable error in review fetching
+INFO 2022-10-25 18:44:46,161 127.0.0.1 - - [25/Oct/2022 18:44:46] "[37mPOST /comment HTTP/1.1[0m" 200 -
+INFO 2022-10-25 18:46:50,118  * Detected change in 'C:\\Users\\Bikash\\Downloads\\pythonpro\\pythonpro\\mongodb_conn.py', reloading
+INFO 2022-10-25 18:58:47,334 127.0.0.1 - - [25/Oct/2022 18:58:47] "[37mGET / HTTP/1.1[0m" 200 -
+INFO 2022-10-25 18:58:47,597 127.0.0.1 - - [25/Oct/2022 18:58:47] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO 2022-10-25 18:58:54,359  product details successfully fetched for 0th product
+INFO 2022-10-25 18:58:54,617  product details successfully fetched for 1th product
+INFO 2022-10-25 18:58:54,973  product details successfully fetched for 2th product
+INFO 2022-10-25 18:58:55,212  product details successfully fetched for 3th product
+INFO 2022-10-25 18:58:55,521  product details successfully fetched for 4th product
+INFO 2022-10-25 18:58:56,001  product details successfully fetched for 5th product
+INFO 2022-10-25 18:58:56,340  product details successfully fetched for 6th product
+INFO 2022-10-25 18:58:56,587  product details successfully fetched for 7th product
+INFO 2022-10-25 18:58:56,842  product details successfully fetched for 8th product
+INFO 2022-10-25 18:58:57,150  product details successfully fetched for 9th product
+INFO 2022-10-25 18:58:57,370  product details successfully fetched for 10th product
+INFO 2022-10-25 18:58:57,788  product details successfully fetched for 11th product
+INFO 2022-10-25 18:58:58,173  product details successfully fetched for 12th product
+INFO 2022-10-25 18:58:58,572  product details successfully fetched for 13th product
+INFO 2022-10-25 18:58:58,952  product details successfully fetched for 14th product
+INFO 2022-10-25 18:58:59,302  product details successfully fetched for 15th product
+INFO 2022-10-25 18:58:59,624  product details successfully fetched for 16th product
+INFO 2022-10-25 18:58:59,850  product details successfully fetched for 17th product
+INFO 2022-10-25 18:59:00,116  product details successfully fetched for 18th product
+INFO 2022-10-25 18:59:00,391  product details successfully fetched for 19th product
+INFO 2022-10-25 18:59:00,820  product details successfully fetched for 20th product
+INFO 2022-10-25 18:59:01,267  product details successfully fetched for 21th product
+INFO 2022-10-25 18:59:01,590  product details successfully fetched for 22th product
+INFO 2022-10-25 18:59:01,961  product details successfully fetched for 23th product
+INFO 2022-10-25 18:59:02,027 package: mysql.connector.plugins
+INFO 2022-10-25 18:59:02,028 plugin_name: caching_sha2_password
+INFO 2022-10-25 18:59:02,037 AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+INFO 2022-10-25 18:59:02,121 table creation successful
+INFO 2022-10-25 18:59:02,165 insertion of data successful
+INFO 2022-10-25 18:59:02,217 127.0.0.1 - - [25/Oct/2022 18:59:02] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO 2022-10-25 18:59:02,258 127.0.0.1 - - [25/Oct/2022 18:59:02] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO 2022-10-25 18:59:16,822 review details successfully fetched from 0th customer 
+INFO 2022-10-25 18:59:17,038 review details successfully fetched from 1th customer 
+INFO 2022-10-25 18:59:17,251 review details successfully fetched from 2th customer 
+INFO 2022-10-25 18:59:17,623 review details successfully fetched from 3th customer 
+INFO 2022-10-25 18:59:17,840 review details successfully fetched from 4th customer 
+INFO 2022-10-25 18:59:18,069 review details successfully fetched from 5th customer 
+INFO 2022-10-25 18:59:18,273 review details successfully fetched from 6th customer 
+INFO 2022-10-25 18:59:18,542 review details successfully fetched from 7th customer 
+INFO 2022-10-25 18:59:18,734 review details successfully fetched from 8th customer 
+INFO 2022-10-25 18:59:18,947 review details successfully fetched from 9th customer 
+ERROR 2022-10-25 18:59:19,096 'Collection' object is not callable. If you meant to call the 'remove' method on a 'Collection' object it is failing because no such method exists.: failed to load data into mongodb
+ERROR 2022-10-25 18:59:19,105 'NoneType' object is not iterable error in review fetching
+INFO 2022-10-25 18:59:19,105 127.0.0.1 - - [25/Oct/2022 18:59:19] "[37mPOST /comment HTTP/1.1[0m" 200 -
+INFO 2022-10-25 19:00:42,073  * Detected change in 'C:\\Users\\Bikash\\Downloads\\pythonpro\\pythonpro\\mongodb_conn.py', reloading
